@@ -1,0 +1,84 @@
+{% extends "navbar.html" %}
+
+{% block title %}metas...{% endblock %}
+
+{% block content %}
+
+<!-- templates/metas.html -->
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Metas</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/metas.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>Metas</h1>
+
+    <section class="controls">
+      <button id="btn-refresh">Refrescar</button>
+
+      <!-- NUEVO: botón Ver pendientes -->
+      <button id="btn-view-pending" title="Ver modal con materiales o centros no agregados">Ver pendientes</button>
+
+      <button id="btn-export-excel">Exportar Excel (.xlsx)</button>
+      <button id="btn-export-json">Exportar JSON</button>
+      <input type="file" id="file-import" accept=".xlsx,.xls,.json" />
+      <button id="btn-import">Importar (Excel / JSON)</button>
+      <button id="btn-delete-all" class="danger">Eliminar TODO</button>
+    </section>
+
+    <section class="form">
+      <h2>Agregar / Editar registro</h2>
+      <form id="item-form">
+        <label>Centro Costos<br><input type="text" id="input-centro"></label>
+        <label>Material<br><input type="text" id="input-material" required></label>
+        <label>Meta Cantidad<br><input type="number" id="input-meta" min="0" step="1" value="0"></label>
+        <input type="hidden" id="editing-index" value="">
+        <button type="submit" id="btn-save">Guardar</button>
+        <button type="button" id="btn-cancel-edit">Cancelar</button>
+      </form>
+      <div class="small-muted">Nota: no se usan IDs en los objetos; los duplicados están permitidos.</div>
+    </section>
+
+    <section class="table-section">
+      <h2>Listado</h2>
+      <table id="items-table">
+        <thead><tr><th>#</th><th>Centro Costos</th><th>Material</th><th>Meta Cantidad</th><th>Acciones</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </section>
+
+    <div id="message" class="message"></div>
+  </div>
+
+  <!-- MODAL: pendientes -->
+  <div id="pending-modal" class="modal" style="display:none;">
+    <div class="modal-backdrop" id="modal-backdrop"></div>
+    <div class="modal-panel" role="dialog" aria-modal="true">
+      <button class="modal-close" id="modal-close" aria-label="Cerrar">✕</button>
+      <h3>Pendientes — Materiales y Centros no agregados</h3>
+      <div class="modal-content">
+        <div style="margin-top:10px;">
+          <strong>Centros pendientes</strong>
+          <ul id="modal-centros-list"></ul>
+        </div>
+        <div style="margin-top:12px;">
+          <strong>Materiales pendientes</strong>
+          <ul id="modal-materials-list"></ul>
+        </div>
+      </div>
+      <div style="margin-top:12px; text-align:right;">
+        <button id="modal-close-btn">Cerrar</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="{{ url_for('static', filename='js/metas.js') }}"></script>
+</body>
+</html>
+
+
+{% endblock %}

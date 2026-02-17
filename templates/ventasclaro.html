@@ -1,0 +1,133 @@
+{% extends "navbar.html" %}
+
+{% block title %}ventas...{% endblock %}
+
+{% block content %}
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Ventas Claro</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/ventasclaro.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>Ventas Claro</h1>
+
+    <!-- Meses box debajo del título -->
+    <div id="months-box" class="months-box" aria-live="polite">
+      <div class="months-summary">
+        <strong>Meses de ventas:</strong>
+        <span id="months-preview">(cargando...)</span>
+      </div>
+      <div>
+        <button id="btn-view-months">Ver meses</button>
+      </div>
+    </div>
+
+    <!-- Mensaje simple (debajo del título) -->
+    <div id="message" class="message" style="margin-bottom:12px;"></div>
+
+    <section class="controls">
+      <button id="btn-refresh">Refrescar</button>
+      <button id="btn-view-pending" title="Ver modal con materiales o centros no agregados">Ver pendientes</button>
+
+      <!-- Export buttons -->
+      <button id="btn-export-excel" title="Exportar a Excel (.xlsx)">Exportar Excel (.xlsx)</button>
+      <button id="btn-export-json" title="Exportar a JSON">Exportar JSON</button>
+
+      <input type="file" id="file-import" accept=".xlsx,.xls,.json" />
+      <button id="btn-import">Importar (Excel / JSON)</button>
+
+      <button id="btn-delete-all" class="danger">Eliminar TODO</button>
+    </section>
+
+    <!-- FILTROS -->
+    <section class="filters">
+      <h2>Filtros</h2>
+      <div class="filter-row">
+        <label>Fecha inicio<br><input type="date" id="filter-start"></label>
+        <label>Fecha fin<br><input type="date" id="filter-end"></label>
+        <div class="filter-actions">
+          <button id="btn-apply-filter">Aplicar filtro</button>
+          <button id="btn-clear-filter">Borrar filtros</button>
+          <button id="btn-delete-filtered" class="danger">Borrar filtrados</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="form">
+      <h2>Agregar / Editar Venta</h2>
+      <form id="venta-form">
+        <label>Centro Costos<br><input type="text" id="input-centro" required></label>
+        <label>Material<br><input type="text" id="input-material" required></label>
+        <label>Fecha Venta<br><input type="date" id="input-fecha"></label>
+        <label>Cantidad<br><input type="number" id="input-cantidad" min="0" step="1" value="1"></label>
+
+        <input type="hidden" id="editing-original-idx" value="">
+        <button type="submit" id="btn-save">Guardar</button>
+        <button type="button" id="btn-cancel-edit">Cancelar</button>
+      </form>
+    </section>
+
+    <section class="table-section">
+      <h2>Listado</h2>
+      <table id="ventas-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Centro Costos</th>
+            <th>Material</th>
+            <th>Fecha Venta</th>
+            <th>Cantidad</th>
+            <th>Acciones</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </section>
+
+  </div>
+
+  <!-- MODAL: pendientes -->
+  <div id="pending-modal" class="modal" style="display:none;">
+    <div class="modal-backdrop" id="modal-backdrop"></div>
+    <div class="modal-panel" role="dialog" aria-modal="true">
+      <button class="modal-close" id="modal-close" aria-label="Cerrar">✕</button>
+      <h3>Pendientes — Materiales y Centros no agregados</h3>
+      <div class="modal-content">
+        <div style="margin-top:10px;">
+          <strong>Centros pendientes</strong>
+          <ul id="modal-centros-list"></ul>
+        </div>
+        <div style="margin-top:12px;">
+          <strong>Materiales pendientes</strong>
+          <ul id="modal-materials-list"></ul>
+        </div>
+      </div>
+      <div style="margin-top:12px; text-align:right;">
+        <button id="modal-close-btn">Cerrar</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL: meses -->
+  <div id="months-modal" class="modal" style="display:none;">
+    <div class="modal-backdrop" id="months-backdrop"></div>
+    <div class="modal-panel" role="dialog" aria-modal="true">
+      <button class="modal-close" id="months-close" aria-label="Cerrar">✕</button>
+      <h3>Meses con ventas</h3>
+      <div class="modal-content">
+        <ul id="months-list"></ul>
+      </div>
+      <div style="margin-top:12px; text-align:right;">
+        <button id="months-close-btn">Cerrar</button>
+      </div>
+    </div>
+  </div>
+
+<script src="{{ url_for('static', filename='js/ventasclaro.js') }}"></script>
+</body>
+</html>
+{% endblock %}

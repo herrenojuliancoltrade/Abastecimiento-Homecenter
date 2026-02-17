@@ -1,0 +1,110 @@
+{% extends "navbar.html" %}
+
+{% block title %}serializar...{% endblock %}
+
+{% block content %}
+
+<!-- templates/serializarventas.html -->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Serializar Ventas</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/serializarventas.css') }}">
+</head>
+<body>
+
+
+    <div class="form-container">
+        <h1>Serializador de Productos para Ventas</h1>
+
+        <form id="serial-form" method="post" enctype="multipart/form-data" action="{{ url_for('serializarventas.procesar_y_descargar') }}">
+            <div class="file-input">
+                <input type="file" name="file" id="file-input" accept=".xlsx" required>
+            </div>
+
+            <div class="preview-controls">
+                <button type="button" id="btn-preview" class="btn">Mostrar marcas importadas</button>
+            </div>
+
+            <div id="marcas-importadas" class="marcas-importadas" style="display:none;">
+                <div class="marcas-title">Marcas detectadas:</div>
+                <div id="marcas-list"></div>
+            </div>
+
+            <h3>Seriales Iniciales por Marca</h3>
+            <div class="serial-container">
+                {% for marca in marcas_especificas %}
+                <div class="serial-group">
+                    <label class="serial-label">{{ marca }}:</label>
+                    <input type="text" name="serial_{{ marca.lower() }}" placeholder="Ej: X100" class="serial-input">
+                </div>
+                {% endfor %}
+            </div>
+
+            <div class="serial-group" style="grid-column: span 3;">
+                <label class="serial-label">Otros:</label>
+                <input type="text" name="otros_serial" placeholder="Ej: X100" class="serial-input">
+            </div>
+
+            <button type="submit" class="submit-btn">Serializar y Descargar Ventas</button>
+        </form>
+
+        <div id="msg" style="margin-top:12px;color:#444;font-size:15px;"></div>
+    </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    const btnPreview = document.getElementById('btn-preview');
+    const fileInput = document.getElementById('file-input');
+    const marcasContainer = document.getElementById('marcas-importadas');
+    const marcasList = document.getElementById('marcas-list');
+    const msg = document.getElementById('msg');
+
+    btnPreview.addEventListener('click', async () => {
+        msg.textContent = '';
+        if (!fileInput.files.length) {
+            msg.textContent = 'Selecciona un archivo .xlsx antes de previsualizar.';
+            return;
+        }
+
+        const formData = new FormData();
+        formData.append('file', fileInput.files[0]);
+
+        try {
+            btnPreview.disabled = true;
+            btnPreview.textContent = 'Cargando...';
+            const resp = await fetch('{{ url_for("serializarventas.preview_marcas") }}', {
+                method: 'POST',
+                body: formData
+            });
+
+            if (!resp.ok) {
+                const err = await resp.json();
+                msg.textContent = err.error || 'Error al obtener marcas';
+                return;
+            }
+
+            const data = await resp.json();
+            const marcas = data.marcas || [];
+
+            if (marcas.length === 0) {
+                marcasList.innerHTML = '<em>No se detectaron marcas</em>';
+            } else {
+                marcasList.innerHTML = marcas.map(m => `<span class="marca-pill">${m}</span>`).join(' ');
+            }
+            marcasContainer.style.display = 'block';
+        } catch (e) {
+            msg.textContent = 'Error al previsualizar el archivo.';
+            console.error(e);
+        } finally {
+            btnPreview.disabled = false;
+            btnPreview.textContent = 'Mostrar marcas importadas';
+        }
+    });
+});
+</script>
+</body>
+</html>
+{% endblock %}

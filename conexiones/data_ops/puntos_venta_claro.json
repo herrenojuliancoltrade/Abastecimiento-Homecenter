@@ -1,0 +1,680 @@
+[
+  {
+    "Centro Costos": "C001",
+    "Punto de Venta": "Bodega Ppal 1",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C102",
+    "Punto de Venta": "Cav Bogota Chapinero",
+    "Canal o Regional": "Region Centro (Z. Norte)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C103",
+    "Punto de Venta": "Cav Bogota Restrepo",
+    "Canal o Regional": "Region Centro (Z. Sur)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C104",
+    "Punto de Venta": "Cav Soacha Mercurio",
+    "Canal o Regional": "Region Centro (Z. Sur)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C105",
+    "Punto de Venta": "Cav Bogota Venecia",
+    "Canal o Regional": "Region Centro (Z. Sur)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C106",
+    "Punto de Venta": "Cav Bogota Alamos",
+    "Canal o Regional": "Region Centro (Z. Norte)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C107",
+    "Punto de Venta": "Tienda Bogota Titan Plaza",
+    "Canal o Regional": "Region Centro (Z. Norte)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C108",
+    "Punto de Venta": "Cav Bogota Plaza Claro",
+    "Canal o Regional": "Region Centro (Z. Sur)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C109",
+    "Punto de Venta": "Cav Bogota Cra 7",
+    "Canal o Regional": "Region Centro (Z. Sur)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C110",
+    "Punto de Venta": "Cav Bogota Fontibon",
+    "Canal o Regional": "Region Centro (Z. Norte)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C111",
+    "Punto de Venta": "Cav Bogota Kennedy",
+    "Canal o Regional": "Region Centro (Z. Sur)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C114",
+    "Punto de Venta": "Tienda Bogota Gran Plaza Bosa",
+    "Canal o Regional": "Region Centro (Z. Sur)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C115",
+    "Punto de Venta": "Cav Bogota Floresta",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C116",
+    "Punto de Venta": "Cav Bogota Calima Mall Plaza",
+    "Canal o Regional": "Region Centro (Z. Norte)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C119",
+    "Punto de Venta": "Cav Bogota Calle 140",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C120",
+    "Punto de Venta": "Cav Chia La Libertad",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C121",
+    "Punto de Venta": "Cav Bucaramanga Cabecera",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C123",
+    "Punto de Venta": "Cav Cucuta Av Gran Colombia",
+    "Canal o Regional": "Region Centro (Z. Norte)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C124",
+    "Punto de Venta": "Cav Florencia",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C125",
+    "Punto de Venta": "Cav Neiva San Pedro",
+    "Canal o Regional": "Region Centro (Z. Norte)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C126",
+    "Punto de Venta": "Cav Ibague Centro",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C128",
+    "Punto de Venta": "Cav Tunja Viva",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C130",
+    "Punto de Venta": "Cav Villavicencio Villa Centro",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C131",
+    "Punto de Venta": "Cav Yopal",
+    "Canal o Regional": "Region Centro (Z. Sur)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C132",
+    "Punto de Venta": "Cav Barrancabermeja",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C133",
+    "Punto de Venta": "Cav Bogota Toberin",
+    "Canal o Regional": "Region Centro (Z. Norte)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C153",
+    "Punto de Venta": "Tienda Bogota Ensueño Madelena",
+    "Canal o Regional": "Region Centro (Z. Sur)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C154",
+    "Punto de Venta": "Tienda Bogota Parque La Colina",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C155",
+    "Punto de Venta": "Cav Bogota Unicentro",
+    "Canal o Regional": "Region Centro (Z. Norte)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C157",
+    "Punto de Venta": "Cav Bogota Plaza De Las Americas",
+    "Canal o Regional": "Region Centro (Z. Sur)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C159",
+    "Punto de Venta": "Tienda Bogota Andino",
+    "Canal o Regional": "Region Centro (Z. Norte)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C160",
+    "Punto de Venta": "Tienda Floridablanca Florida Ii",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C172",
+    "Punto de Venta": "Tienda Bogota Paseo Del Rio",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C173",
+    "Punto de Venta": "Cav Bogota Plaza Imperial",
+    "Canal o Regional": "Region Centro (Z. Norte)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C175",
+    "Punto de Venta": "Tienda Soacha Ventura Terreros",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C176",
+    "Punto de Venta": "Cav Bogota Centro Mayor",
+    "Canal o Regional": "Region Centro (Z. Sur)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C178",
+    "Punto de Venta": "Cav Bogota La Felicidad",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C179",
+    "Punto de Venta": "Cav Bogota Santafe",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C181",
+    "Punto de Venta": "Cav Chia Fontanar",
+    "Canal o Regional": "Region Centro (Z. Norte)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C182",
+    "Punto de Venta": "Cav Bucaramanga Omnicentro",
+    "Canal o Regional": "Region Centro (Z. Norte)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C185",
+    "Punto de Venta": "Cav Neiva Centro",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C186",
+    "Punto de Venta": "Cav Ibague Fontainebleau",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C197",
+    "Punto de Venta": "Cav Fusagasuga",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C200",
+    "Punto de Venta": "Tienda Virtual",
+    "Canal o Regional": "E-Commerce",
+    "Tipo": "E-Commerce"
+  },
+  {
+    "Centro Costos": "C220",
+    "Punto de Venta": "Cav Mosquera",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C224",
+    "Punto de Venta": "Cav Zipaquira",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C230",
+    "Punto de Venta": "Logytech Bogota",
+    "Canal o Regional": "Tmk",
+    "Tipo": "Tmk"
+  },
+  {
+    "Centro Costos": "C277",
+    "Punto de Venta": "Bodega Agentes Comerciales",
+    "Canal o Regional": "Tmk",
+    "Tipo": "Domicilio"
+  },
+  {
+    "Centro Costos": "C300",
+    "Punto de Venta": "Cav Medellin Molinos Laureles",
+    "Canal o Regional": "Region Centro (Z. Sur)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C301",
+    "Punto de Venta": "Cav Medellin Premium",
+    "Canal o Regional": "Region Centro (Z. Sur)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C302",
+    "Punto de Venta": "Tienda Viva Envigado",
+    "Canal o Regional": "Region Centro (Z. Sur)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C303",
+    "Punto de Venta": "Cav Medellin Av Colombia",
+    "Canal o Regional": "Region Centro (Z. Sur)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C304",
+    "Punto de Venta": "Cav Armenia Portal Quindio",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C305",
+    "Punto de Venta": "Cav Medellin Puerta Del Norte",
+    "Canal o Regional": "Region Centro (Z. Sur)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C308",
+    "Punto de Venta": "Cav Cali Norte",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C309",
+    "Punto de Venta": "Cav Cali Sur Jardin Plaza",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C311",
+    "Punto de Venta": "Cav Cartago",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C312",
+    "Punto de Venta": "Cav Caucasia",
+    "Canal o Regional": "Region Centro (Z. Sur)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C315",
+    "Punto de Venta": "Cav La Dorada",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C316",
+    "Punto de Venta": "Cav Manizales El Cable",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C318",
+    "Punto de Venta": "Cav Pasto",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C320",
+    "Punto de Venta": "Cav Pereira Estacion Central",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C321",
+    "Punto de Venta": "Cav Popayan Plaza Colonial",
+    "Canal o Regional": "Region Centro (Z. Norte)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C322",
+    "Punto de Venta": "Cav Quibdo",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C323",
+    "Punto de Venta": "Cav Rionegro",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C324",
+    "Punto de Venta": "Cav Cali Palmetto",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C327",
+    "Punto de Venta": "Cav Mayorca",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C374",
+    "Punto de Venta": "Tienda Medellin Arkadia",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C375",
+    "Punto de Venta": "Tienda Medellin Fabricato",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C378",
+    "Punto de Venta": "Cav Popayan Campanario",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C382",
+    "Punto de Venta": "Cav Palmira Centro",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C383",
+    "Punto de Venta": "Cav Cali Gran Comercio",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C500",
+    "Punto de Venta": "Cav Aguachica",
+    "Canal o Regional": "Region Centro (Z. Norte)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C501",
+    "Punto de Venta": "Cav Barranquilla Prado",
+    "Canal o Regional": "Region Centro (Z. Norte)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C502",
+    "Punto de Venta": "Cav Barranquilla Metropolitano",
+    "Canal o Regional": "Region Centro (Z. Norte)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C503",
+    "Punto de Venta": "Cav Valledupar Guatapuri",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C505",
+    "Punto de Venta": "Tienda Barranquilla Mall Plaza Buenavista",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C506",
+    "Punto de Venta": "Cav Cartagena Bocagrande",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C507",
+    "Punto de Venta": "Cav Cartagena Ejecutivos",
+    "Canal o Regional": "Region Centro (Z. Norte)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C508",
+    "Punto de Venta": "Cav Monteria Alameda",
+    "Canal o Regional": "Region Centro (Z. Sur)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C509",
+    "Punto de Venta": "Cav Riohacha",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C510",
+    "Punto de Venta": "Cav Santa Marta Buenavista",
+    "Canal o Regional": "Region Centro (Z. Norte)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C511",
+    "Punto de Venta": "Cav Sincelejo Guacari",
+    "Canal o Regional": "Region Centro (Z. Norte)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C550",
+    "Punto de Venta": "Cav Barranquilla Parque Alegra",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C577",
+    "Punto de Venta": "Cav Valledupar Mayales",
+    "Canal o Regional": "Region Centro (Z. Sur)",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C350",
+    "Punto de Venta": "Tienda Medellin Santa Fe",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C319",
+    "Punto de Venta": "Cav Pereira La Rebeca",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C504",
+    "Punto de Venta": "Cav Barranquilla Centro",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C359",
+    "Punto de Venta": "Tienda Pasto Unico",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C325",
+    "Punto de Venta": "Cav Tulua Salesiano",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C370",
+    "Punto de Venta": "Cav Armenia Centro",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C193",
+    "Punto de Venta": "Cav  Duitama",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C221",
+    "Punto de Venta": "Cav Sogamoso",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C190",
+    "Punto de Venta": "Tienda Bogota Portal 80",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C198",
+    "Punto de Venta": "Cav Girardot",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C578",
+    "Punto de Venta": "Cav Cartagena Gran Manzana",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C002",
+    "Punto de Venta": "En Revision",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C326",
+    "Punto de Venta": "Cav Tumaco",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C390",
+    "Punto de Venta": "Cav Malecon Buenaventura",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C555",
+    "Punto de Venta": "Cav Santa Marta",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C911",
+    "Punto de Venta": "Revisar1",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C901",
+    "Punto de Venta": "Revisar2",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C912",
+    "Punto de Venta": "Revisar3",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C913",
+    "Punto de Venta": "Revisar4",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C433",
+    "Punto de Venta": "Revisar5",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C435",
+    "Punto de Venta": "Revisar5",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C231",
+    "Punto de Venta": "Revisar5",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C192",
+    "Punto de Venta": "Cúcuta Centro",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C630",
+    "Punto de Venta": "Revisar6",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C234",
+    "Punto de Venta": "LOGYTECH IBAGUE",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C232",
+    "Punto de Venta": "LOGYTECH CUCUTA",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C353",
+    "Punto de Venta": "CAV APARTADO",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  },
+  {
+    "Centro Costos": "C632",
+    "Punto de Venta": "LOGYTECH MONTERIA",
+    "Canal o Regional": "Cav Fuera de Coltrade",
+    "Tipo": "Cav"
+  }
+]

@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="/static/css/navbar.css">
+    {% block extra_css %}{% endblock %}
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-container">
+            <a href="/apps_operaciones/" class="navbar-brand">
+                <i class="fas fa-rocket brand-icon"></i>
+                <span class="brand-text">Operaciones</span>
+            </a>
+            <div id="mobile-menu" class="navbar-toggle" aria-label="Abrir menú">
+                <span class="toggle-bar"></span>
+                <span class="toggle-bar"></span>
+                <span class="toggle-bar"></span>
+            </div>
+            <ul id="navbar-menu" class="navbar-menu">
+                <li class="nav-item">
+                    <a href="/abastecimientos/" class="nav-link">
+                        <i class="fas fa-home nav-icon"></i>
+                        <span class="nav-text">Inicio</span>
+                    </a>
+                </li>
+
+
+                 <li class="nav-item">
+                    <a href="/justintime/" class="nav-link">
+                        <i class="fas fa-home nav-icon"></i>
+                        <span class="nav-text">Js</span>
+                    </a>
+                </li>
+
+
+
+
+
+                <li class="nav-item dropdown">
+  <a href="#" class="nav-link dropdown-toggle">
+    <i class="fas fa-users nav-icon"></i>
+    <span class="nav-text">Data Intena</span>
+    <i class="fas fa-chevron-down dropdown-arrow"></i>
+  </a>
+
+  <ul class="dropdown-menu">
+    <li class="dropdown-item">
+      <a href="/opspuntos/" class="dropdown-link">
+        <i class="fas fa-map-marker-alt dropdown-icon"></i>
+        <span>Ops puntos</span>
+      </a>
+    </li>
+
+    <li class="dropdown-item">
+      <a href="/opsproductos/" class="dropdown-link">
+        <i class="fas fa-boxes dropdown-icon"></i>
+        <span>Ops productos</span>
+      </a>
+    </li>
+
+    <li class="dropdown-item">
+      <a href="/ventasclaro/" class="dropdown-link" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-chart-line dropdown-icon"></i>
+        <span>Ventas</span>
+      </a>
+    </li>
+
+    <li class="dropdown-item">
+      <a href="/inventario/" class="dropdown-link" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-warehouse dropdown-icon"></i>
+        <span>Inventario</span>
+      </a>
+    </li>
+
+    <li class="dropdown-item">
+      <a href="/transitos/" class="dropdown-link" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-truck dropdown-icon"></i>
+        <span>Transitos</span>
+      </a>
+    </li>
+
+    <li class="dropdown-item">
+      <a href="/metas/" class="dropdown-link" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-bullseye dropdown-icon"></i>
+        <span>Metas</span>
+      </a>
+    </li>
+
+    <li class="dropdown-item">
+      <a href="/coltrade/" class="dropdown-link" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-building dropdown-icon"></i>
+        <span>Coltrade</span>
+      </a>
+    </li>
+
+    <li class="dropdown-item">
+      <a href="/claro/" class="dropdown-link" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-phone dropdown-icon"></i>
+        <span>Claro</span>
+      </a>
+    </li>
+  </ul>
+</li>
+
+
+
+
+<li class="nav-item dropdown">
+  <a href="#" class="nav-link dropdown-toggle">
+    <i class="fas fa-cogs nav-icon"></i>
+    <span class="nav-text">Herramientas</span>
+    <i class="fas fa-chevron-down dropdown-arrow"></i>
+  </a>
+
+  <ul class="dropdown-menu">
+    <li class="dropdown-item">
+      <a href="/unir/" class="dropdown-link track-link" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-link dropdown-icon"></i>
+        <span>Unir archivos</span>
+      </a>
+    </li>
+
+    <li class="dropdown-item">
+      <a href="/cruzar/" class="dropdown-link track-link" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-random dropdown-icon"></i>
+        <span>Cruzar archivos</span>
+      </a>
+    </li>
+
+    <li class="dropdown-item">
+      <a href="/serializarventas/" class="dropdown-link track-link" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-barcode dropdown-icon"></i>
+        <span>Serializar ventas</span>
+      </a>
+    </li>
+
+    <li class="dropdown-item">
+      <a href="/forecast/" class="dropdown-link track-link ghost" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-chart-line dropdown-icon"></i>
+        <span>Forecast</span>
+      </a>
+    </li>
+  </ul>
+</li>
+
+
+
+
+                <!-- NUEVO: Botón Cerrar sesión -->
+                <li class="nav-item">
+                    <!-- uso de button para evitar navegación; estilo igual que .nav-link -->
+                    <button id="logout-btn" class="nav-link btn-logout" type="button" aria-label="Cerrar sesión">
+                        <i class="fas fa-sign-out-alt nav-icon"></i>
+                        <span class="nav-text">Cerrar sesión</span>
+                    </button>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="main-content">
+        {% block content %}{% endblock %}
+    </div>
+
+    <script src="/static/js/navbar.js"></script>
+    {% block extra_js %}{% endblock %}
+</body>
+</html>

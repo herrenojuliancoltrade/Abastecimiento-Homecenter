@@ -1,0 +1,69 @@
+{% extends "navbar.html" %}
+
+{% block title %}Inicio - Mi Sitio{% endblock %}
+
+{% block content %}
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>JustinTime - Pedidos 2025</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/justinTime.css') }}">
+</head>
+<body>
+  <main class="container">
+    <header class="header">
+      <h1>JustinTime — Pedidos 2025 (Estado: Sale)</h1>
+      
+      <div class="controls">
+        <div class="stats">
+          <span id="info-count">Cargando datos del año 2025...</span>
+          <div class="loading-spinner" id="loadingSpinner" style="display: none;">⏳ Cargando...</div>
+        </div>
+      </div>
+    </header>
+
+    <section class="table-wrap">
+      <div class="table-container">
+        <table id="jt-table" class="jt-table">
+          <thead>
+            <tr>
+              <th data-sort="ref_interna">Ref Interna</th>
+              <th data-sort="price_unit">Precio Unit</th>
+              <th data-sort="nombre_corto">Nombre corto</th>
+              <th data-sort="qty_delivered">Cant Entrega</th>
+              <th data-sort="cantidad">Cantidad</th>
+              <th data-sort="state">Estado</th>
+              <th data-sort="create_date">Fecha creación</th>
+              <th data-sort="effective_date">Fecha efectiva</th>
+              <th data-sort="canal">Canal</th>
+              <th data-sort="fuente">Fuente</th>
+              <th data-sort="marca">Marca</th>
+              <th data-sort="orden_fuente">Orden Fuente</th>
+              <th data-sort="referencia">Referencia</th>
+              <th data-sort="vendedor">Vendedor</th>
+            </tr>
+          </thead>
+          <tbody id="jt-body">
+            <tr>
+              <td colspan="14" class="loading-message">Cargando datos del año 2025...</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <nav class="pagination" id="jt-pagination">
+      <!-- Controles de paginación -->
+    </nav>
+  </main>
+
+  <script>
+    const API_URL = "{{ url_for('justintime.api_data') }}";  // Nombre original del blueprint
+  </script>
+  <script src="{{ url_for('static', filename='js/justinTime.js') }}"></script>
+</body>
+</html>
+
+{% endblock %}

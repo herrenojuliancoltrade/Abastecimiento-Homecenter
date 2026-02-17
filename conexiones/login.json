@@ -1,0 +1,22 @@
+[
+  {
+    "email": "julian@example.com",
+    "username": "julipalacios",
+    "name": "Julian Palacios",
+    "password": "3232",
+    "id_rol": "1", 
+    "rol": "administrador",
+    "id_area": "1",
+    "area": "compras"  
+  },
+  {
+    "email": "velaedver@coltrade.com.co",
+    "username": "velaedver",
+    "name": "Edver Vela",
+    "password": "Coltrade2025**",
+    "id_rol": "2", 
+    "rol": "usuario",
+    "id_area": "2",
+    "area": "operaciones"  
+  }
+]

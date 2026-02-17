@@ -1,0 +1,18 @@
+/* static/css/opspuntos.css */
+body { font-family: Arial, sans-serif; margin:20px; background:#f5f7fb; color:#111; }
+.container { max-width:1100px; margin:0 auto; background:white; padding:20px; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.06); }
+.controls { display:flex; gap:8px; align-items:center; margin-bottom:12px; flex-wrap:wrap; }
+.controls button, .controls input[type=file] { padding:8px 12px; border-radius:6px; border:1px solid #ddd; background:#fff; cursor:pointer; }
+.controls .danger { background:#ffefef; border-color:#ff9b9b; }
+.form { margin-bottom:20px; max-width:600px; }
+.form label { display:block; margin-bottom:8px; font-size:14px; }
+.form input[type="text"] { width:100%; padding:8px; border-radius:6px; border:1px solid #ddd; box-sizing:border-box; }
+.form button { padding:8px 12px; margin-right:8px; }
+.table-section table { width:100%; border-collapse:collapse; margin-top:8px; }
+.table-section th, .table-section td { padding:10px; border-bottom:1px solid #eee; text-align:left; }
+.table-section tr:hover { background:#fbfbfb; }
+.message { min-height:20px; margin-top:10px; }
+.message.info {}
+.message.success { color: #0a7; }
+.message.error { color: #d00; }
+button.edit, button.delete { margin-right:6px; padding:4px 8px; border-radius:4px; border:1px solid #ccc; background:#fff; cursor:pointer; }

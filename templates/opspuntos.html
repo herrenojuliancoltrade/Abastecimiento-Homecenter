@@ -1,0 +1,68 @@
+{% extends "navbar.html" %}
+
+{% block title %}puntos...{% endblock %}
+
+{% block content %}
+
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Puntos Ops</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/opspuntos.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>Puntos Ops</h1>
+
+    <section class="controls">
+      <button id="btn-refresh">Refrescar</button>
+      <button id="btn-export-excel">Exportar Excel (.xlsx)</button>
+      <button id="btn-export-json">Exportar JSON</button>
+
+      <input type="file" id="file-import" accept=".xlsx,.xls,.json" />
+      <button id="btn-import">Importar (Excel / JSON)</button>
+
+      <button id="btn-delete-all" class="danger">Eliminar TODO</button>
+    </section>
+
+    <section class="form">
+      <h2>Crear / Editar</h2>
+      <form id="punto-form">
+        <label>Centro Costos<br><input type="text" id="input-centro" required></label>
+        <label>Punto de Venta<br><input type="text" id="input-punto"></label>
+        <label>Canal o Regional<br><input type="text" id="input-canal"></label>
+        <label>Tipo<br><input type="text" id="input-tipo"></label>
+
+        <input type="hidden" id="editing-original-centro" value="">
+        <button type="submit" id="btn-save">Guardar</button>
+        <button type="button" id="btn-cancel-edit">Cancelar</button>
+      </form>
+    </section>
+
+    <section class="table-section">
+      <h2>Listado</h2>
+      <table id="puntos-table">
+        <thead>
+          <tr>
+            <th>Centro Costos</th>
+            <th>Punto de Venta</th>
+            <th>Canal o Regional</th>
+            <th>Tipo</th>
+            <th>Acciones</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </section>
+
+    <div id="message" class="message"></div>
+  </div>
+
+<script src="{{ url_for('static', filename='js/opspuntos.js') }}"></script>
+</body>
+</html>
+
+
+{% endblock %}

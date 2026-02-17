@@ -1,0 +1,80 @@
+{% extends "navbar.html" %}
+
+{% block title %}Coltrade - Data{% endblock %}
+
+{% block content %}
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Coltrade - Data</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/coltrade.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>Coltrade - Data</h1>
+
+    <section class="controls">
+      <button id="btn-refresh">Refrescar</button>
+      <button id="btn-export-excel">Exportar Excel (.xlsx)</button>
+      <button id="btn-export-json">Exportar JSON</button>
+
+      <input type="file" id="file-import" accept=".xlsx,.xls,.json" />
+      <button id="btn-import">Importar (Excel / JSON)</button>
+
+      <button id="btn-delete-all" class="danger">Eliminar TODO</button>
+    </section>
+
+    <section class="form">
+      <h2>Crear / Editar</h2>
+      <form id="item-form">
+        <label>Centro Costos<br><input type="text" id="input-centro"></label>
+        <label>Punto de Venta<br><input type="text" id="input-punto"></label>
+        <label>Material<br><input type="text" id="input-material" required></label>
+        <label>Producto<br><input type="text" id="input-producto"></label>
+        <label>Marca<br><input type="text" id="input-marca"></label>
+        <label>Ventas Actuales<br><input type="text" id="input-vactual"></label>
+        <label>Transitos<br><input type="text" id="input-transitos"></label>
+        <label>Inventario<br><input type="text" id="input-inventario"></label>
+        <label>Envío Inventario 3 meses<br><input type="text" id="input-envio3"></label>
+        <label>Sugerido Coltrade<br><input type="text" id="input-sugerido"></label>
+
+        <!-- hidden para edición: ahora guardamos el id único -->
+        <input type="hidden" id="editing-original-id" value="">
+        <div style="margin-top:10px;">
+          <button type="submit" id="btn-save">Guardar</button>
+          <button type="button" id="btn-cancel-edit">Cancelar</button>
+        </div>
+      </form>
+    </section>
+
+    <section class="table-section">
+      <h2>Listado</h2>
+      <table id="items-table">
+        <thead>
+          <tr>
+            <th>Centro Costos</th>
+            <th>Punto de Venta</th>
+            <th>Material</th>
+            <th>Producto</th>
+            <th>Marca</th>
+            <th>Ventas Actuales</th>
+            <th>Transitos</th>
+            <th>Inventario</th>
+            <th>Envío Inventario 3 meses</th>
+            <th>Sugerido Coltrade</th>
+            <th>Acciones</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </section>
+
+    <div id="message" class="message"></div>
+  </div>
+
+<script src="{{ url_for('static', filename='js/coltrade.js') }}"></script>
+</body>
+</html>
+{% endblock %}

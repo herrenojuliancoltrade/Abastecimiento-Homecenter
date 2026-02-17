@@ -1,0 +1,241 @@
+{% extends "navbar.html" %}
+
+{% block title %}Inicio - Operaciones{% endblock %}
+
+{% block content %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/abastecimientos.css') }}">
+
+<section class="abastecimientos-app" aria-live="polite">
+  <!-- Canvas para efectos visuales -->
+  <canvas id="confetti-canvas" class="confetti-canvas" aria-hidden="true"></canvas>
+  <canvas id="particles-canvas" class="particles-canvas" aria-hidden="true"></canvas>
+  
+  <!-- Efecto de partículas flotantes -->
+  <div class="floating-particles">
+    <div class="particle p1"></div>
+    <div class="particle p2"></div>
+    <div class="particle p3"></div>
+    <div class="particle p4"></div>
+    <div class="particle p5"></div>
+  </div>
+
+  <header class="hero">
+    <div class="hero-inner">
+      <div class="hero-left">
+        <div class="title-container">
+          <h1 class="page-title">Panel de Operaciones</h1>
+          <div class="title-underline"></div>
+        </div>
+        <p class="hero-sub">Centro de abastecimiento y herramientas operativas</p>
+
+        <div class="user-greeting">
+          <div class="avatar-container">
+            <div class="user-avatar" id="user-avatar">
+              <i class="fas fa-user"></i>
+            </div>
+            <div class="status-indicator"></div>
+          </div>
+          <p class="greeting" id="greeting">Buen día, <span id="user-name">Usuario</span> 👋</p>
+        </div>
+
+        <div class="main-buttons" role="navigation" aria-label="Accesos principales">
+          <button class="main-btn data-btn" data-modal="modalData" aria-haspopup="dialog" aria-controls="modalData">
+            <i class="fas fa-database btn-icon"></i>
+            <span>Data</span>
+            <div class="btn-shine"></div>
+          </button>
+
+          <button class="main-btn abastecimiento-btn" data-modal="modalAbastecimiento" aria-haspopup="dialog" aria-controls="modalAbastecimiento">
+            <i class="fas fa-boxes btn-icon"></i>
+            <span>Abastecimiento</span>
+            <div class="btn-shine"></div>
+          </button>
+        </div>
+
+        <div class="meta-helpers">
+          <div class="loader-inline" aria-hidden="true">
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+          </div>
+          <div class="note small">Haz clic en un acceso para abrir la herramienta en una nueva pestaña</div>
+        </div>
+      </div>
+
+      <div class="hero-right" aria-hidden="true">
+        <div class="visual-card" data-tilt>
+          <div class="card-glow"></div>
+          <div class="sparkles" aria-hidden="true">
+            <span class="star s1"></span>
+            <span class="star s2"></span>
+            <span class="star s3"></span>
+            <span class="star s4"></span>
+            <span class="star s5"></span>
+          </div>
+
+          <div class="visual-body">
+            <h3 class="vis-title">Accesos Rápidos</h3>
+            <p class="vis-sub">Navega a los módulos que ya conoces (se abrirán en nueva pestaña)</p>
+
+            <div class="vis-links">
+              <a class="pill track-link" href="/unir/" target="_blank" rel="noopener noreferrer">
+                <i class="fas fa-link"></i>
+                Unir
+              </a>
+              <a class="pill track-link" href="/cruzar/" target="_blank" rel="noopener noreferrer">
+                <i class="fas fa-exchange-alt"></i>
+                Cruzar
+              </a>
+              <a class="pill track-link" href="/serializarventas/" target="_blank" rel="noopener noreferrer">
+                <i class="fas fa-barcode"></i>
+                Serializar
+              </a>
+              <a class="pill track-link" href="/forecast/" target="_blank" rel="noopener noreferrer">
+                <i class="fas fa-chart-line"></i>
+                Forecast
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- MODAL DATA -->
+  <div id="modalData" class="modal" aria-hidden="true" role="dialog" aria-labelledby="modalDataTitle">
+    <div class="modal-backdrop"></div>
+    <div class="modal-content" role="document" tabindex="-1">
+      <button class="close" data-close aria-label="Cerrar">
+        <i class="fas fa-times"></i>
+      </button>
+
+      <div class="modal-entrance">
+        <div class="modal-icon">
+          <i class="fas fa-database"></i>
+        </div>
+        <h2 id="modalDataTitle">Data</h2>
+        <p class="muted">Enlaces a las secciones de datos. Cada enlace abrirá una nueva pestaña.</p>
+      </div>
+
+      <div class="modal-grid">
+        <div class="panel">
+          <div class="panel-header">
+            <i class="fas fa-source panel-icon"></i>
+            <h3>Fuentes</h3>
+          </div>
+          <ul class="list">
+            <li>
+              <a class="track-link modal-link" href="/opspuntos/" target="_blank" rel="noopener noreferrer">
+                <i class="fas fa-map-marker-alt"></i>
+                Ops puntos
+              </a>
+            </li>
+            <li>
+              <a class="track-link modal-link" href="/opsproductos/" target="_blank" rel="noopener noreferrer">
+                <i class="fas fa-cube"></i>
+                Ops productos
+              </a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="panel">
+          <div class="panel-header">
+            <i class="fas fa-sim-card panel-icon"></i>
+            <h3>Data Claro</h3>
+          </div>
+          <div class="panel-actions">
+            <a class="ghost track-link modal-link" href="/ventasclaro/" target="_blank" rel="noopener noreferrer">
+              <i class="fas fa-shopping-cart"></i>
+              Ventas
+            </a>
+            <a class="ghost track-link modal-link" href="/inventario/" target="_blank" rel="noopener noreferrer">
+              <i class="fas fa-warehouse"></i>
+              Inventario
+            </a>
+            <a class="ghost track-link modal-link" href="/transitos/" target="_blank" rel="noopener noreferrer">
+              <i class="fas fa-truck"></i>
+              Tránsitos
+            </a>
+            <a class="ghost track-link modal-link" href="/metas/" target="_blank" rel="noopener noreferrer">
+              <i class="fas fa-bullseye"></i>
+              Metas
+            </a>
+            <a class="ghost track-link modal-link" href="/coltrade/" target="_blank" rel="noopener noreferrer">
+              <i class="fas fa-building"></i>
+              Coltrade
+            </a>
+            <a class="ghost track-link modal-link" href="/claro/" target="_blank" rel="noopener noreferrer">
+              <i class="fas fa-wifi"></i>
+              Claro
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL ABASTECIMIENTO -->
+  <div id="modalAbastecimiento" class="modal" aria-hidden="true" role="dialog" aria-labelledby="modalAbTitle">
+    <div class="modal-backdrop"></div>
+    <div class="modal-content" role="document" tabindex="-1">
+      <button class="close" data-close aria-label="Cerrar">
+        <i class="fas fa-times"></i>
+      </button>
+
+      <div class="modal-entrance">
+        <div class="modal-icon">
+          <i class="fas fa-boxes"></i>
+        </div>
+        <h2 id="modalAbTitle">Abastecimiento</h2>
+        <p class="muted">Accesos relacionados con abastecimiento. Cada enlace abrirá una nueva pestaña.</p>
+      </div>
+
+      <div class="modal-grid">
+        <div class="panel">
+          <div class="panel-header">
+            <i class="fas fa-cogs panel-icon"></i>
+            <h3>Operaciones</h3>
+          </div>
+          <ul class="list">
+            <li>
+              <a class="track-link modal-link" href="/unir/" target="_blank" rel="noopener noreferrer">
+                <i class="fas fa-link"></i>
+                Unir archivos
+              </a>
+            </li>
+            <li>
+              <a class="track-link modal-link" href="/cruzar/" target="_blank" rel="noopener noreferrer">
+                <i class="fas fa-exchange-alt"></i>
+                Cruzar archivos
+              </a>
+            </li>
+            <li>
+              <a class="track-link modal-link" href="/serializarventas/" target="_blank" rel="noopener noreferrer">
+                <i class="fas fa-barcode"></i>
+                Serializar ventas
+              </a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="panel">
+          <div class="panel-header">
+            <i class="fas fa-chart-line panel-icon"></i>
+            <h3>Explorar</h3>
+          </div>
+          <div class="panel-actions">
+            <a class="ghost track-link modal-link" href="/forecast/" target="_blank" rel="noopener noreferrer">
+              <i class="fas fa-chart-line"></i>
+              Forecast
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</section>
+
+<script src="{{ url_for('static', filename='js/abastecimientos.js') }}" defer></script>
+{% endblock %}

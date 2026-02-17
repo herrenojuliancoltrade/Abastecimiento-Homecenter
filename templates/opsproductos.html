@@ -1,0 +1,57 @@
+{% extends "navbar.html" %}
+
+{% block title %}productos...{% endblock %}
+
+{% block content %}
+<!-- templates/opsproductos.html -->
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Productos Ops</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/opsproductos.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>Productos Ops</h1>
+
+    <section class="controls">
+      <button id="btn-refresh">Refrescar</button>
+      <button id="btn-export-excel">Exportar Excel (.xlsx)</button>
+      <button id="btn-export-json">Exportar JSON</button>
+
+      <input type="file" id="file-import" accept=".xlsx,.xls,.json" />
+      <button id="btn-import">Importar (Excel / JSON)</button>
+
+      <button id="btn-delete-all" class="danger">Eliminar TODO</button>
+    </section>
+
+    <section class="form">
+      <h2>Crear / Editar</h2>
+      <form id="product-form">
+        <label>Material<br><input type="text" id="input-material" required></label>
+        <label>Producto<br><input type="text" id="input-producto"></label>
+        <label>Marca<br><input type="text" id="input-marca"></label>
+
+        <input type="hidden" id="editing-original-material" value="">
+        <button type="submit" id="btn-save">Guardar</button>
+        <button type="button" id="btn-cancel-edit">Cancelar</button>
+      </form>
+    </section>
+
+    <section class="table-section">
+      <h2>Listado</h2>
+      <table id="products-table">
+        <thead><tr><th>Material</th><th>Producto</th><th>Marca</th><th>Acciones</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </section>
+
+    <div id="message" class="message"></div>
+  </div>
+
+<script src="{{ url_for('static', filename='js/opsproductos.js') }}"></script>
+</body>
+</html>
+{% endblock %}
