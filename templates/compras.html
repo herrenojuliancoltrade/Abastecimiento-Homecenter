@@ -1,0 +1,47 @@
+{% extends "navbar.html" %}
+
+{% block title %}Cruce Compras{% endblock %}
+
+{% block content %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/compras.css') }}">
+
+<div class="container">
+  <h1>Cruce: Compras</h1>
+
+  <div class="controls">
+    <button id="refresh-btn" class="btn">Actualizar</button>
+
+    <form id="import-form" class="import-form" enctype="multipart/form-data" style="display:inline-block;">
+      <input id="file-input" type="file" name="file" accept=".xlsx,.xls,.csv,.json" />
+      <button id="import-btn" type="submit" class="btn">Importar</button>
+    </form>
+
+    <button id="export-btn" class="btn">Exportar Excel</button>
+
+    <input id="search-input" placeholder="Buscar Material / Producto / Marca" />
+  </div>
+
+  <div id="status" class="status" role="status" aria-live="polite"></div>
+
+  <div class="table-wrap">
+    <table id="compras-table" class="compras-table" aria-live="polite">
+      <thead>
+        <tr>
+          <th>Material</th>
+          <th>Producto</th>
+          <th>Marca</th>
+          <th>Sugerido</th>
+          <th>Confirmar</th>
+          <th>Observación</th>
+          <th>Acciones</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- filas generadas por compras.js -->
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<script src="{{ url_for('static', filename='js/compras.js') }}"></script>
+{% endblock %}

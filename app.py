@@ -94,6 +94,7 @@ from blueprint.serializar_ventas  import serializarventas_bp
 from blueprint.data_claro import claro_bp
 from blueprint.data_coltrade import coltrade_bp
 from blueprint.JustinTime import justinTime_bp
+from blueprint.compras import compras_bp
 from blueprint.auth import auth_bp, init_blocklist
 # -------------------------------------------------
 
@@ -114,7 +115,8 @@ PROTECTED_BLUEPRINTS = {
     serializarventas_bp,
     claro_bp,
     coltrade_bp,
-    justinTime_bp
+    justinTime_bp,
+    compras_bp
 }
 
 EXEMPT_BLUEPRINTS = {
@@ -206,6 +208,7 @@ app.register_blueprint(serializarventas_bp)
 app.register_blueprint(claro_bp)
 app.register_blueprint(coltrade_bp)
 app.register_blueprint(justinTime_bp)
+app.register_blueprint(compras_bp)
 
 # Inicializar blocklist checker (desde blueprint/auth.py)
 init_blocklist(jwt)
