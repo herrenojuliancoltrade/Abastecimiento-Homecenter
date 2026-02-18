@@ -1,1 +1,2327 @@
-[]
+[
+  {
+    "Material": "829610004471",
+    "Producto": "Roku Express Rok3930Mx-P (Unico)",
+    "Marca": "Roku"
+  },
+  {
+    "Material": "840080531083",
+    "Producto": "Altavoz Inteligente Amazon Echo Dot 5Ta Generacion (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840080543161",
+    "Producto": "Tablet Fire Amazon 8 Hd 10Ma Generacion 2Gb Ram 32Gb Memoria (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "841667131016",
+    "Producto": "Altavoz Inteligente Echo Spot Amazon (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "2077000251457",
+    "Producto": "Mp Micro Mouse Retractil Genius Gmn104-Rojo",
+    "Marca": "Genius"
+  },
+  {
+    "Material": "840080509594",
+    "Producto": "Tablet Amazon Fire Hd 10 3Gb Ram 32Gb Memoria 11Va Generacion (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "195477541221",
+    "Producto": "Computador Portatil Lenovo Ideapad 81Vu0079Us 14\" Intel Celeron N4020, 4Gb Ram, 64Gb Ssd (Azul)",
+    "Marca": "Lenovo"
+  },
+  {
+    "Material": "6974202726041",
+    "Producto": "Memoria Micro Sd Hiksemi Neo Hs-Tf-C1 Microsdxc Clase 10 92Mb/S (128Gb)",
+    "Marca": "Hiksemi"
+  },
+  {
+    "Material": "841667188577",
+    "Producto": "Lector Electronico Amazon Kindle 6\" 8Gb Memoria 10Ma Generacion 2019 (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840080527987",
+    "Producto": "Mp Tablet Fire Amazon Hd 8 32 Gb 2022",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "6950376772282",
+    "Producto": "Camara Web Redragon Hitman Gw800 1080P (Negro)",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "6974202726034",
+    "Producto": "Memoria Micro Sd Hiksemi Neo Hs-Tf-C1 Microsdxc Clase 10 92Mb/S (64Gb)",
+    "Marca": "Hiksemi"
+  },
+  {
+    "Material": "6950376713087",
+    "Producto": "Mp Tecl Inal Gamer Redr Hor Fs K618 Rgb Switch Rjo",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "2077000278140",
+    "Producto": "Mp Base Refrigerante St-Cp-11 3 Ventilad Transp",
+    "Marca": "Star Tec"
+  },
+  {
+    "Material": "7703165016116",
+    "Producto": "Audifonos Inalambricos De Conduccion Osea Wattana W-Bh-X (Negro)",
+    "Marca": "Wattana"
+  },
+  {
+    "Material": "6950376709714",
+    "Producto": "Mp Teclado Gamer Redragon Horus K618 Red Rgb",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "7898646195012",
+    "Producto": "Camara Inteligente Ezviz Cs-C1C-E0-1E2Wf 2Mp Audio Bidireccional Infrarrojo 12M Base Magnetica (Blanco)",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "6941545601922",
+    "Producto": "Mp Camara Intel Ezviz Cs-C2C 2Mp Audio Bidirec Int",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "653854213784",
+    "Producto": "Mp Funda Portatil C/Crem Star Tec 14.1 Pulg Fucsia",
+    "Marca": "Star Tec"
+  },
+  {
+    "Material": "6950376717498",
+    "Producto": "Teclado Inalambrico Redragon K632 Switch Rojo En Ingles (Negro)",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "4894947000027",
+    "Producto": "Celular Infinix Note 30 Pro 8Gb Ram 256Gb Rom Dual Sim Ram Expandible (Negro)",
+    "Marca": "Infinix"
+  },
+  {
+    "Material": "6950376778925",
+    "Producto": "Mp Teclado Gam Redrag Kumara K552 C/Luces Rgb Esp",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "6950376704962",
+    "Producto": "Mp Teclado Gamer Redragon Kumara K552 Rainbow",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "653854213432",
+    "Producto": "Mp Funda Portatil Cremallera Star Tec Sl-005 14",
+    "Marca": "Star Tec"
+  },
+  {
+    "Material": "6950376772312",
+    "Producto": "Diadema Gamer Redragon Hylas H260 Con Luces Rgb (Negro)",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "2077000490979",
+    "Producto": "Microfono Para Computador Trust Starzz 3.5Mm/Usb (Negro)",
+    "Marca": "Trust"
+  },
+  {
+    "Material": "745883792559",
+    "Producto": "Mp Cargador Inalambrico Belkin Stand Qi + Speaker",
+    "Marca": "Belkin"
+  },
+  {
+    "Material": "829610004501",
+    "Producto": "Tv Box Roku Premiere 3920Mx (Negro)",
+    "Marca": "Roku"
+  },
+  {
+    "Material": "8416671236150",
+    "Producto": "Tablet Fire Amazon 8 1.5Gb Ram 32Gb Memoria 7Generacion (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "8416671663604",
+    "Producto": "Tablet Fire Amazon 8 1.5Gb Ram 16Gb Memoria (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840080504575",
+    "Producto": "Tablet Amazon Fire Hd 10 3Gb Ram 32Gb Memoria 11Va Generacion (Azul)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "653854212992",
+    "Producto": "Super Mini Sfc 620 Juegos Incorporados 8Bts 2 Controles (Gris)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "815820022466",
+    "Producto": "Sistema Realidad Virtual Oculus Quest 2 256Gb (Blanco)",
+    "Marca": "Oculus"
+  },
+  {
+    "Material": "815820022688",
+    "Producto": "Sistema Realidad Virtual Oculus Quest 2 128Gb (Blanco)",
+    "Marca": "Oculus"
+  },
+  {
+    "Material": "829610004624",
+    "Producto": "Roku Express 4K 2021 3940Mx (Negro)",
+    "Marca": "Roku"
+  },
+  {
+    "Material": "7703670665564",
+    "Producto": "Parlante Waterproof Bluetooth (Azul)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "653854213302",
+    "Producto": "Parlante Torre Igoma G-Monster Gsl-05 (Negro)",
+    "Marca": "Igoma"
+  },
+  {
+    "Material": "653854213043",
+    "Producto": "Parlante Cabina 15\" Alquimia Px-1215Aub (Negro)",
+    "Marca": "Toshiba"
+  },
+  {
+    "Material": "653854213333",
+    "Producto": "Parlante Barra Toshiba Ty-Sbx1020 (Negro)",
+    "Marca": "Toshiba"
+  },
+  {
+    "Material": "653854213029",
+    "Producto": "Multipuerto Usb 3 Puertos 3.0 Con Adaptador Ethernet Gigabit (Negro)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "653854213364",
+    "Producto": "Mouse Gammer Nia An-800 (Negro)",
+    "Marca": "Nia"
+  },
+  {
+    "Material": "653854213203",
+    "Producto": "Mouse Gamer Bogo Gm02 (Negro)",
+    "Marca": "Bogo"
+  },
+  {
+    "Material": "653854213371",
+    "Producto": "Monopod Sencillo (Negro)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "8713439237863",
+    "Producto": "Mini Hub Usb Trust Halyx 4 Puertos 2.0 En Aluminio (Plata)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "653854213388",
+    "Producto": "Microfono M-306 Usb (Negro)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "653854213401",
+    "Producto": "Manos Libres Bluetooth (Negro)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "2077000160407",
+    "Producto": "Licuadora Shake And Take 3 (Verde)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "2077000160414",
+    "Producto": "Licuadora Shake And Take 3 (Morado)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "2077000160391",
+    "Producto": "Licuadora Shake And Take 3 (Azul)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "610214635419",
+    "Producto": "Licuadora Portatil Usb (Verde)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "2077000231503",
+    "Producto": "Licuadora Portatil Usb (Azul)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "841667130347",
+    "Producto": "Lector Electronico Amazon Kindle Kids 6\" 8Gb Memoria 10Ma Generacion (Azul)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "7703165014143",
+    "Producto": "Kit Teclado Y Mouse Alambricos Star Tec St-Cb-81 (Negro)",
+    "Marca": "Star Tec"
+  },
+  {
+    "Material": "2077000357067",
+    "Producto": "Kit Teclado Y Mouse Alambricos Star Tec St-Cb-71 (Negro)",
+    "Marca": "Star Tec"
+  },
+  {
+    "Material": "842776102140",
+    "Producto": "Google Home Mini Negro",
+    "Marca": "Google"
+  },
+  {
+    "Material": "81157101840",
+    "Producto": "Google Home Assistant Plateado",
+    "Marca": "Google"
+  },
+  {
+    "Material": "2077000357210",
+    "Producto": "Funda Para Portatil Star Tec St-Sl-005 Con Cremallera (Azul Claro)",
+    "Marca": "Star Tec"
+  },
+  {
+    "Material": "653854213678",
+    "Producto": "Echodot 3Ra + Bombillo Led Smart Sylvania Gu10 5W",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "7707322893213",
+    "Producto": "Diadema Usb Con Microfono X-Kim Hf-868U (Negro)",
+    "Marca": "Xkim"
+  },
+  {
+    "Material": "7703165015485",
+    "Producto": "Diadema Startec St-Hp-202A (Negro)",
+    "Marca": "Star Tec"
+  },
+  {
+    "Material": "4710728126727",
+    "Producto": "Diadema Omega 662862 (Negro)",
+    "Marca": "Omega"
+  },
+  {
+    "Material": "2077000647700",
+    "Producto": "Consola Mini Nes 620 Juegos (Blanco-Gris)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "887276106328",
+    "Producto": "Consola Fc Compact Vintage",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "812550034042",
+    "Producto": "Computador Portatil Evoo 11.6\" Intel Celeron N4000, 4Gb Ram, 64Gb Emmc (Morado)",
+    "Marca": "Evoo"
+  },
+  {
+    "Material": "192876803684",
+    "Producto": "Computador Portatil Asus Ultra Thin L210Ma-Db01 11.6\" Intel Celeron N4020, 4Gb Ram, 64Gb Emmc (Negro)",
+    "Marca": "Asus"
+  },
+  {
+    "Material": "842776107244",
+    "Producto": "Combo Google Home Mini (Negro) + Chromecast 3Ra Generación Google (Negro)",
+    "Marca": "Google"
+  },
+  {
+    "Material": "653854213630",
+    "Producto": "Combo Altavoz Inteligente Echo Dot 3Ra Generacion Amazon (Negro) + Bombillo Led Inteligente Sylvania Toledo Smart P23863 9W Rgb (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "653854213487",
+    "Producto": "Combo Altavoz Inteligente Echo Dot 3Ra Generacion Amazon (Negro) + Bombillo Led Inteligente Lixy Orion Lb401 (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "653854213715",
+    "Producto": "Combo Altavoz Inteligente Amazon Echo Dot 5Ta Generacion (Negro) + Bombillo Led Inteligente Sylvania Toledo Globo Smart P23864 9W Rgb (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "653854213531",
+    "Producto": "Combo Altavoz Inteligente Amazon Echo Dot 4Ta Generacion (Negro) + Bombillo Led Inteligente Lixy Orion Lb401 (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "2077000115490",
+    "Producto": "Combo 2 Parlantes Waterproof Bluetooth (Negro)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "193575007229",
+    "Producto": "Chromecast Google 4Ta Generacion (Blanco)",
+    "Marca": "Google"
+  },
+  {
+    "Material": "810037290042",
+    "Producto": "Chromecast Con Google Tv Hd (Blanco)",
+    "Marca": "Google"
+  },
+  {
+    "Material": "653854213395",
+    "Producto": "Cargador Para Carro 2 Puertos Usb Cr-52 3.1A (Negro)",
+    "Marca": "Belkin"
+  },
+  {
+    "Material": "745883794041",
+    "Producto": "Cargador De Pared 2 Puertos Usb Tipo C Belkin 68W (Blanco)",
+    "Marca": "Belkin"
+  },
+  {
+    "Material": "102120201005",
+    "Producto": "Camara Web Star Tec Hc-71 (Negro)",
+    "Marca": "Star Tec"
+  },
+  {
+    "Material": "724235437942",
+    "Producto": "Calentador Ambiente (Negro)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "745883788781",
+    "Producto": "Cable Usb Tipo C A Lightning 1M (Negro)",
+    "Marca": "Belkin"
+  },
+  {
+    "Material": "745883788293",
+    "Producto": "Cable Usb Tipo A - Micro Usb Belkin 1M (Negro)",
+    "Marca": "Belkin"
+  },
+  {
+    "Material": "842776103239",
+    "Producto": "Auriculares Inalambricos Google Pixel Buds 1Ra Generacion (Blanco)",
+    "Marca": "Google"
+  },
+  {
+    "Material": "653854213210",
+    "Producto": "Aro De Luz Jmc S-10 Para Selfies (Rosa)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "193575000657",
+    "Producto": "Altavoz Inteligente Google Nest Mini 2Da Generacion (Negro)",
+    "Marca": "Google"
+  },
+  {
+    "Material": "193575009223",
+    "Producto": "Altavoz Inteligente Google Nest Hub 2Da Generacion (Negro)",
+    "Marca": "Google"
+  },
+  {
+    "Material": "193575007557",
+    "Producto": "Altavoz Inteligente Google Nest Hub 2Da Generacion (Blanco)",
+    "Marca": "Google"
+  },
+  {
+    "Material": "106071201008",
+    "Producto": "Altavoz Inteligente Google Nest Hub (Negro)",
+    "Marca": "Google"
+  },
+  {
+    "Material": "842776107299",
+    "Producto": "Altavoz Inteligente Google Nest Hub (Blanco)",
+    "Marca": "Google"
+  },
+  {
+    "Material": "193575004778",
+    "Producto": "Altavoz Inteligente Google Nest Audio (Rosa Claro)",
+    "Marca": "Google"
+  },
+  {
+    "Material": "193575004785",
+    "Producto": "Altavoz Inteligente Google Nest Audio (Azul Claro)",
+    "Marca": "Google"
+  },
+  {
+    "Material": "841667145402",
+    "Producto": "Altavoz Inteligente Echo Dot 3Ra Generacion Amazon (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "810019526329",
+    "Producto": "Altavoz Inteligente Amazon Echo Show 8 (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840080533063",
+    "Producto": "Altavoz Inteligente Amazon Echo Show 8 (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840080503356",
+    "Producto": "Altavoz Inteligente Amazon Echo Show 5 2Da Generacion (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840080581392",
+    "Producto": "Altavoz Inteligente Amazon Echo Show 5 2Da Generacion (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "841667138091",
+    "Producto": "Altavoz Inteligente Amazon Echo Show 5 (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840080594262",
+    "Producto": "Altavoz Inteligente Amazon Echo Show 15 (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840080553399",
+    "Producto": "Altavoz Inteligente Amazon Echo Show 10 3Ra Generacion (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840080535814",
+    "Producto": "Altavoz Inteligente Amazon Echo Show 10 3Ra Generacion (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840080527079",
+    "Producto": "Altavoz Inteligente Amazon Echo Dot 5Ta Generacion (Azul)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840080552217",
+    "Producto": "Altavoz Inteligente Amazon Echo Dot 4Ta Generacion Kids Edition (Tigre)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840080575704",
+    "Producto": "Altavoz Inteligente Amazon Echo Dot 4Ta Generacion Kids Edition (Panda)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840080564401",
+    "Producto": "Altavoz Inteligente Amazon Echo Dot 4Ta Generacion Con Reloj (Azul)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840080597775",
+    "Producto": "Altavoz Inteligente Amazon Echo Dot 4Ta Generacion (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840080590431",
+    "Producto": "Altavoz Inteligente Amazon Echo Dot 4Ta Generacion (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840080503073",
+    "Producto": "Altavoz Inteligente Amazon Echo Dot 4Ta Generacion (Azul)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840080560212",
+    "Producto": "Altavoz Inteligente Amazon Echo 4Ta Generacion Version 2020 (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840080501567",
+    "Producto": "Altavoz Inteligente Amazon Echo 4Ta Generacion Version 2020 (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "193575000640",
+    "Producto": "Altavoz Inteligente Google Nest Mini 2Da Generacion (Gris)",
+    "Marca": "Google"
+  },
+  {
+    "Material": "6950376774644",
+    "Producto": "Diadema Gamer T-Dagger Cook T-Rgh100 (Negro-Verde",
+    "Marca": "Tdagger"
+  },
+  {
+    "Material": "2077000251563",
+    "Producto": "Pad Mouse Gel Con Descansa Muñecas X-Kim Gelplus-Ne (Negro)",
+    "Marca": "Xkim"
+  },
+  {
+    "Material": "653854213265",
+    "Producto": "Tripode Profesional Bogo 3120A Con Soporte (Negro)",
+    "Marca": "Bogo"
+  },
+  {
+    "Material": "7002549109186",
+    "Producto": "Control Remoto Inteligente Broadlink Rmpro+ (Negro)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "840080558066",
+    "Producto": "Altavoz Inteligente Amazon Echo Dot 5Ta Generacion Con Reloj (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "653854213722",
+    "Producto": "Combo Altavoz Inteligente Echo Dot 3Ra Generacion Amazon (Negro) + 2 Bombillo Led Inteligente Sylvania Toledo Globo Smart P23863 9W Rgb (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "7703165013221",
+    "Producto": "Multipuerto Usb Star Tec St-Hu-17 7 Puertos 2.0 (Negro)",
+    "Marca": "Star Tec"
+  },
+  {
+    "Material": "7703670745815",
+    "Producto": "Ventilador Usb (Negro)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "840080557885",
+    "Producto": "Altavoz Inteligente Amazon Echo Dot 5Ta Generacion Con Reloj (Azul)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "810042430761",
+    "Producto": "Camara Inteligente Ezviz Cs-C3Tn (3Mp) 2K Vision Nocturna A Color (Blanco)",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "7703670665502",
+    "Producto": "Parlante Waterproof Bluetooth (Negro)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "810014301983",
+    "Producto": "Lector Electronico Amazon Kindle Kids 6\" 8Gb Memoria 10Ma Generacion (Diseño Arcoiris)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "2077000251440",
+    "Producto": "Mouse Inalambrico Genius Nx-7000 (Negro)",
+    "Marca": "Genius"
+  },
+  {
+    "Material": "842776103215",
+    "Producto": "Auriculares Inalambricos Google Pixel Buds 1Ra Generacion (Negro)",
+    "Marca": "Google"
+  },
+  {
+    "Material": "2077000357197",
+    "Producto": "Diadema Trust Primo Con Microfono, Plug 3.5Mm (Negro)",
+    "Marca": "Trust"
+  },
+  {
+    "Material": "745883788231",
+    "Producto": "Cable Usb Tipo C A Usb Tipo C 1M (Negro)",
+    "Marca": "Belkin"
+  },
+  {
+    "Material": "840080593524",
+    "Producto": "Altavoz Inteligente Amazon Echo Dot 4Ta Generacion Con Reloj (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "653854213104",
+    "Producto": "Estuche Protector Para Kindle Sello Magnetico (Cafe)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "653854213074",
+    "Producto": "Estuche Protector Para Kindle Sello Magnetico (Negro)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "653854213319",
+    "Producto": "Parlante Bluetooth Toshiba Ty-Asc60 (Negro)",
+    "Marca": "Toshiba"
+  },
+  {
+    "Material": "840080551487",
+    "Producto": "Lector Electronico Amazon Kindle Scribe Ama-B09Bsgfthy-T 10.2\" 32Gb Memoria Incluye Lapiz (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "745883788651",
+    "Producto": "Cable Usb Tipo A Belkin 1M (Blanco)",
+    "Marca": "Belkin"
+  },
+  {
+    "Material": "45496883386",
+    "Producto": "Consola Nintendo Switch Oled Joy-Con Heg-S-Kaaaa (Blanco) (Controles Blanco-Negro)",
+    "Marca": "Nintendo"
+  },
+  {
+    "Material": "653854213098",
+    "Producto": "Mp Funda Protectora Kindle Sello Magnetico Azul",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "2077000115513",
+    "Producto": "Combo 2 Parlantes Waterproof Bluetooth (Azul)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "6950376706706",
+    "Producto": "Mp Teclado Redragon Fizz Pro K616-Rgb Red Gris-Bco",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "841667172620",
+    "Producto": "Mp Kindle Paperwh 6.8 Pulg 8 Gb 10 Ma Gen Water Ng",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "6950376709738",
+    "Producto": "Mp Tecl Gam Redragon Horus Tkl K621 Rgb Switch Rjo",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "745883793686",
+    "Producto": "Mp Cargador De Pared Belkin 24W Doble Puerto Usb",
+    "Marca": "Belkin"
+  },
+  {
+    "Material": "810019527746",
+    "Producto": "Lector Electronico Amazon Kindle Paperwhite 6.8 8Gb Memoria 2021 (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "6950376705914",
+    "Producto": "Diadema Gamer Redragon Zeus X H510 Con Luces Rgb (Negro)",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "6950376776624",
+    "Producto": "Diadema Gamer Redragon Themis H220 Con Luz Roja (Negro)",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "6950376778956",
+    "Producto": "Mp Teclado Gam Redrag Shiva K512 C/Luces Rgb Espan",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "6950376706676",
+    "Producto": "Mp Teclado Redragon Fizz Pro K616-Rgb Red Bco-Rosa",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "840268954253",
+    "Producto": "Mp Kindle Amazon 6 Pulg 2022 16Gb Luz Integrada",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "97855170927",
+    "Producto": "Mouse Inalambrico Ergonomico Logitech Lift 910-006466 (Negro)",
+    "Marca": "Logitech"
+  },
+  {
+    "Material": "6950376778932",
+    "Producto": "Mp Tecl Gam Redrag Kumara K552 C/Luces Rgb Esp Bco",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "6950376706683",
+    "Producto": "Mp Teclado Redragon Fizz Pro K616-Rgb Red Rosa-Bco",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "2077000251495",
+    "Producto": "Teclado Alambrico Genius Smart Kb-102 (Negro)",
+    "Marca": "Genius"
+  },
+  {
+    "Material": "653854213777",
+    "Producto": "Mp Combo Mouse + Mousepad Redragon 2 In 1",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "2077000115520",
+    "Producto": "Mp Combo 2 Parlantes Bluetooth Prueba Agua-Verde",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "6950376715395",
+    "Producto": "Diadema Gamer Inalambrica Redragon Ire H848 (Azul-Blanco)",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "656804107393",
+    "Producto": "Licuadora Portatil Usb (Rosa)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "6950376715357",
+    "Producto": "Mp Auriculares Inalambr Gamer Redragon Ire H848",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "840080504384",
+    "Producto": "Mp Kindle Amaz Kids Edi 6.8Pulg 11Gen 8Gb +Est Vde",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "6950376706690",
+    "Producto": "Mp Teclado Redragon Fizz Pro K616-Rgb Red Bco-Gris",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "7703670665519",
+    "Producto": "Mp Parlante Waterproof Bluetooth (Verde)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "45496882174",
+    "Producto": "Consola Nintendo Switch Joy-Con Hac-001(-01) (Controles Azul Neon-Rojo Neon)",
+    "Marca": "Nintendo"
+  },
+  {
+    "Material": "840080502274",
+    "Producto": "Tablet Amazon Fire Hd 10 3Gb Ram 32Gb Memoria 11Va Generacion (Lila)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "6950376706669",
+    "Producto": "Teclado Gamer Redragon Fizz Pro K616 Con Luces Rgb (Negro)",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "840080519647",
+    "Producto": "Tablet Amazon Fire Hd 10 3Gb Ram 32Gb Memoria 11Va Generacion (Verde Oliva)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "7703165014655",
+    "Producto": "Mouse Inalambrico Star Tec St-Mo-91 (Negro)",
+    "Marca": "Star Tec"
+  },
+  {
+    "Material": "653854213241",
+    "Producto": "Aro De Luz S-10 Cuadrado Para Selfies (Azul Claro)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "840080503653",
+    "Producto": "Altavoz Inteligente Amazon Echo Dot 5Ta Generacion (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "653854213012",
+    "Producto": "Adaptador Ethernet A Usb 3.0 (Negro)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "6950376708403",
+    "Producto": "Diadema Gamer Redragon Hylas H260 Con Luces Rgb (Blanco)",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "840080570129",
+    "Producto": "Lector Electronico Amazon Kindle Paperwhite Kids Ama-B08P52R2Pl-B 6.8\" 8Gb Memoria 11Va Generacion 2021 (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "713752190928",
+    "Producto": "Hs100(1080P) Holy Stone Drone (Negro)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "2077000357180",
+    "Producto": "Diadema Gamer Trust Ravu Gxt 307 Con Microfono, Plug Y Adaptador 3.5Mm (Negro)",
+    "Marca": "Trust"
+  },
+  {
+    "Material": "2077000115537",
+    "Producto": "Combo 2 Parlantes Waterproof Bluetooth (Fucsia)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "829610004945",
+    "Producto": "Roku Express Rok3960Mx (Negro)",
+    "Marca": "Roku"
+  },
+  {
+    "Material": "840268935870",
+    "Producto": "Altavoz Inteligente Amazon Echo Pop 1Ra Generacion (Azul)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "653854213791",
+    "Producto": "Combo Fire Tv Stick Lite Amazon Con Alexa 1Ra Generacion (Unico) + Altavoz Inteligente Amazon Echo Dot 5Ta Generacion (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840080571539",
+    "Producto": "Altavoz Inteligente Amazon Echo Show 5 3Ra Generacion (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840080510798",
+    "Producto": "Altavoz Inteligente Amazon Echo Show 8 2Da Generacion (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840080505848",
+    "Producto": "Altavoz Inteligente Amazon Echo Show 5 3Ra Generacion",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "5099206063914",
+    "Producto": "Kit Teclado Y Mouse Inalambrico Logitech Mk235 Español (Negro)",
+    "Marca": "Logitech"
+  },
+  {
+    "Material": "840080594804",
+    "Producto": "Altavoz Inteligente Amazon Echo Pop 1Ra Generacion (Lila)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "653854213906",
+    "Producto": "Combo Altavoz Inteligente Amazon Echo Pop 1Ra Generacion (Negro) + Bombillo Led Inteligente Sylvania Toledo Globo Smart P23864 9W Rgb (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "653854213746",
+    "Producto": "Combo Camara Inteligente Ezviz Cs-H3C Color 1080P Vision Nocturna A Color (Blanco) + Camara Inteligente Ezviz Cs-C6N 2Mp Full Hd 1080P (Blanco)",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "97855124180",
+    "Producto": "Mouse Inalambrico Logitech M170 (Negro)",
+    "Marca": "Logitech"
+  },
+  {
+    "Material": "681131422284",
+    "Producto": "Tv Box Onn 2309A Con Google Tv 4K (Negro)",
+    "Marca": "Onn"
+  },
+  {
+    "Material": "653854213807",
+    "Producto": "Mouse Gamer Redragon Griffin M607 Con Luces Rgb (Negro)",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "840268941093",
+    "Producto": "Lector Electronico Amazon Kindle 6\" 16Gb Memoria 2022, Pantalla Hr 300Ppp Sin Reflejos (Azul)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "653854213913",
+    "Producto": "Combo Altavoz Inteligente Amazon Echo Pop 1Ra Generacion (Azul) + Bombillo Led Inteligente Sylvania Toledo Globo Smart P23864 9W Rgb (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "6941545603148",
+    "Producto": "Camara Inteligente 360 Ezviz Cs-C6W-A0-3H4Wf 4Mp Deteccion De Personas Con Ia (Gris-Negro)",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "840268907235",
+    "Producto": "Altavoz Inteligente Amazon Echo Pop 1Ra Generacion (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "6941545617800",
+    "Producto": "Camara Inteligente Ezviz Cs-H3C Color 1080P Vision Nocturna A Color (Blanco)",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "840268921804",
+    "Producto": "Altavoz Inteligente Amazon Echo Pop 1Ra Generacion (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "6941545616438",
+    "Producto": "Camara Inteligente Ezviz Cs-H1C 1080P (Blanco)",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "6941545630533",
+    "Producto": "Camara Inteligente Ezviz Cs-Cp1-R105-1L2Wf 360° 1080P (Blanco)",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "97855115300",
+    "Producto": "Teclado Inalambrico Logitech K400 Plus Con Touchpad (Negro)",
+    "Marca": "Logitech"
+  },
+  {
+    "Material": "840080570136",
+    "Producto": "Altavoz Inteligente Amazon Echo Show 8 2Da Generacion (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "653854213821",
+    "Producto": "Combo Altavoz Inteligente Amazon Echo Dot 5Ta Generacion (Negro) + Camara Inteligente Ezviz Cs-C6N 2Mp Full Hd 1080P (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "653854213135",
+    "Producto": "Combo Altavoz Inteligente Google Home Mini Nest 2 (Gris) + Chromecast Con Google Tv Hd (Blanco)",
+    "Marca": "Google"
+  },
+  {
+    "Material": "6941545606279",
+    "Producto": "Camara Inteligente Ezviz Cs-C3Tn (2Mp) 1080P Vision Nocturna (Blanco)",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "653854213814",
+    "Producto": "Combo Altavoz Inteligente Echo Dot 3Ra Generacion Amazon (Negro) + Camara Inteligente Ezviz Cs-C6N 2Mp Full Hd 1080P (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "612677617506",
+    "Producto": "Licuadora Shake And Take 3 (Amarillo)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "653854213760",
+    "Producto": "Diadema Gamer Redragon Ares H120 (Unico)",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "653854213753",
+    "Producto": "Combo Camara Inteligente Ezviz Cs-H3C Color 1080P Vision Nocturna A Color (Blanco) + Camara Inteligente 360 Ezviz Cs-H8C 1080P Vision Nocturna A Color (Blanco)",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "6950376778369",
+    "Producto": "Mp Mouse Gamer Redragon Griffin M607 Luces Rgb Bco",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "6974202726027",
+    "Producto": "Memoria Micro Sd Hiksemi Neo Hs-Tf-C1 Microsdhc Clase 10 92Mb/S (32Gb)",
+    "Marca": "Hiksemi"
+  },
+  {
+    "Material": "6950376779427",
+    "Producto": "Mouse Gamer Redragon Centrophorus Rgb M601Rgb Con Luces Rgb (Negro)",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "6941545611754",
+    "Producto": "Camara Inteligente Ezviz Cs-Bm1 2Mp 1080P Monitor Para Bebe (Blanco-Bear)",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "6950376705167",
+    "Producto": "Mp Tecl Gam Redrag Shiva K512 C/Luce Rgb Espan Bco",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "2077000231497",
+    "Producto": "Licuadora Portatil Usb (Morado)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "653854213968",
+    "Producto": "Combo Altavoz Inteligente Amazon Echo Pop 1Ra Generacion (Negro) + Roku Express Rok3930Mx-P (Unico)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "653854213937",
+    "Producto": "Combo Altavoz Inteligente Amazon Echo Pop 1Ra Generacion (Lila) + Bombillo Led Inteligente Sylvania Toledo Globo Smart P23864 9W Rgb (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840080564906",
+    "Producto": "Tablet Amazon Fire 7 2Gb Ram 16Gb Memoria 12Va Generacion Version 2022 (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "708022942000",
+    "Producto": "Smartband Fit Air Takion (Blanco)",
+    "Marca": "Takion"
+  },
+  {
+    "Material": "653854213326",
+    "Producto": "Parlante Barra Toshiba Ty-Sbx130 Con Control (Negro)",
+    "Marca": "Toshiba"
+  },
+  {
+    "Material": "7709663596280",
+    "Producto": "Smartband Fit Air Takion (Negro)",
+    "Marca": "Takion"
+  },
+  {
+    "Material": "6941545611716",
+    "Producto": "Camara Inteligente Ezviz Cs-Bm1 2Mp 1080P Monitor Para Bebe (Rosa-Bunny)",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "6950376774460",
+    "Producto": "Pad Mouse Gamer T-Dagger T-Tmp101 (Negro-Verde)",
+    "Marca": "Tdagger"
+  },
+  {
+    "Material": "6950376784049",
+    "Producto": "Teclado Gamer T-Dagger Minesweeping T-Tgk103 Retroiluminado (Negro)",
+    "Marca": "Tdagger"
+  },
+  {
+    "Material": "7709663596204",
+    "Producto": "Smartwatch Plus T20 Takion (Negro-Verde)",
+    "Marca": "Takion"
+  },
+  {
+    "Material": "7709663596297",
+    "Producto": "Smartwatch Sport One Takion (Rojo)",
+    "Marca": "Takion"
+  },
+  {
+    "Material": "653854212985",
+    "Producto": "Consola Mini Retro Arcade 2 Controles (Blanco)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "6941545620930",
+    "Producto": "Camara Inteligente Ezviz Cs-Eb8 4G 2K 360° Outdoor (Blanco)",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "6941764422964",
+    "Producto": "Celular Realme C67 8Gb Ram 256Gb Rom Dual Sim Ram Expandible (Negro)",
+    "Marca": "Realme"
+  },
+  {
+    "Material": "6974202726645",
+    "Producto": "Memoria Usb Hiksemi Newsemi Hs-Usb-M210S Usb 3.2 (64Gb)",
+    "Marca": "Hiksemi"
+  },
+  {
+    "Material": "840080517032",
+    "Producto": "Tablet Amazon Fire 7 2Gb Ram 16Gb Memoria 12Va Generacion Version 2022 (Azul)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840268946920",
+    "Producto": "Altavoz Inteligente Amazon Echo Show 8 3Ra Generacion (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "6950376778857",
+    "Producto": "Diadema Gamer Redragon Lamia 2 H320 Con Luces Rgb (Blanco)",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "840268905323",
+    "Producto": "Altavoz Inteligente Amazon Echo Show 8 3Ra Generacion (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "653854213692",
+    "Producto": "Combo Altavoz Inteligente Amazon Echo Dot 5Ta Generacion (Negro) + Tomacorriente Inteligente Lixy Jack Lb2027 (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "810019529290",
+    "Producto": "Lector Electronico Amazon Kindle Paperwhite  6\" 32Gb Memoria Generacion 2018 (Azul)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "841667180021",
+    "Producto": "Lector Electronico Amazon Kindle Paperwhite 6\" 8Gb Memoria 10Ma Generacion Waterproof (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "810019520488",
+    "Producto": "Lector Electronico Amazon Kindle Paperwhite 6\" 8Gb Memoria 10Ma Generacion Waterproof (Azul)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "6950376714787",
+    "Producto": "Switches Redragon Panda A113 38U (Panda)",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "840268922870",
+    "Producto": "Altavoz Inteligente Amazon Echo Spot 2024 (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840268963422",
+    "Producto": "Altavoz Inteligente Amazon Echo Spot 2024 (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840268974282",
+    "Producto": "Altavoz Inteligente Amazon Echo Spot 2024 (Azul)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "6941545634043",
+    "Producto": "Cerrojo Inteligente Ezviz Dl03 (Negro)",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "6941545602493",
+    "Producto": "Camara Inteligente Ezviz Cs-C6N 2Mp Full Hd 1080P (Blanco)",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "653854213883",
+    "Producto": "Combo Altavoz Inteligente Google Home Mini Nest 2 (Gris) + Bombillo Led Inteligente Sylvania Toledo Smart P23863 9W Rgb (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "97855112774",
+    "Producto": "Kit Volante Y Pedales De Carreras Logitech G29 Para Xbox Playstation Y Pc (Negro)",
+    "Marca": "Logitech"
+  },
+  {
+    "Material": "653854213128",
+    "Producto": "Kit Altavoz Inteligente Amazon Echo Dot 5Ta Generacion (Blanco) + 2 Bombillo Led Inteligente Sylvania Toledo Globo Smart P23864 9W Rgb (Blanco) + 2 Tomacorriente Inteligente Lixy Jack Lb2027 (Blanco) + Camara Inteligente Ezviz Cs-Cp1-R105-1L2Wf 360° 1080P (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "6950376710796",
+    "Producto": "Teclado Gamer Redragon Horus Fs K619 Usb Tipo C Con Luces Rgb Switch Rojo En Español (Negro)",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "6950376715401",
+    "Producto": "Diadema Gamer Inalambrica Redragon Ire H848 (Gris-Blanco)",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "653854213517",
+    "Producto": "Combo Camara Inteligente Ezviz Cs-Eb8 4G 2K 360° Outdoor (Blanco) + Panel Solar Ezviz Cs-Cmt-Solar Panel-C Para Camaras Ezviz 6W (Blanco)",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "653854213524",
+    "Producto": "Combo 2 Camara Inteligente Ezviz Cs-Cp1-R105-1L2Wf 360° 1080P (Blanco)",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "6941545617688",
+    "Producto": "Camara Inteligente Ezviz Cs-H3C-R100-1K3Wkfl 2K Exterior Vision Nocturna A Color (Blanco)",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "6941545618593",
+    "Producto": "Camara Inteligente Ezviz Cs-Cb2-R100-2D2Wf Con Bateria Integrada 1080P (Negro)",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "6941545604862",
+    "Producto": "Camara Inteligente Ezviz Cs-Cp1-A0-8B4Wf 2K (Negro)",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "815820024149",
+    "Producto": "Sistema Realidad Virtual Oculus Quest 3 128Gb (Blanco)",
+    "Marca": "Oculus"
+  },
+  {
+    "Material": "850044396504",
+    "Producto": "Parlante Bluetooth Cubitt Power Go (Negro)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "850044396542",
+    "Producto": "Parlante Bluetooth Cubitt Power Go (Gris)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "850044396511",
+    "Producto": "Parlante Bluetooth Cubitt Power Go (Azul)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "850044396528",
+    "Producto": "Parlante Bluetooth Cubitt Power Go (Verde)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "850044396559",
+    "Producto": "Parlante Bluetooth Cubitt Power Plus (Negro)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "850044396597",
+    "Producto": "Parlante Bluetooth Cubitt Power Plus (Gris)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "850044396566",
+    "Producto": "Parlante Bluetooth Cubitt Power Plus (Azul)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "850044396573",
+    "Producto": "Parlante Bluetooth Cubitt Power Plus (Verde)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "850044396603",
+    "Producto": "Parlante Bluetooth Cubitt Power Pro (Negro)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "850044396610",
+    "Producto": "Parlante Bluetooth Cubitt Power Pro (Blanco)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "850044396658",
+    "Producto": "Smartwatch Cubitt Viva Ct-Viva5 (Rosa)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "850044396634",
+    "Producto": "Smartwatch Cubitt Viva (Gris)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "850044396696",
+    "Producto": "Smartwatch Cubitt Viva Pro (Rosa)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "850044396689",
+    "Producto": "Smartwatch Cubitt Viva Pro (Verde)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "850044396771",
+    "Producto": "Smartwatch Cubitt Aura (Negro)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "850044396795",
+    "Producto": "Smartwatch Cubitt Aura (Dorado)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "850044396788",
+    "Producto": "Smartwatch Cubitt Aura (Verde)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "850044396818",
+    "Producto": "Smartwatch Cubitt Aura (Azul)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "749460894476",
+    "Producto": "Smartwatch Cubitt Reebok (Negro)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "749460894483",
+    "Producto": "Smartwatch Cubitt Reebok (Blanco)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "749460894506",
+    "Producto": "Audfonos Inalambricos Cubitt Reebok 2 Earbuds (Negro)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "749460894513",
+    "Producto": "Audfonos Inalambricos Cubitt Reebok 2 Earbuds (Blanco)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "878615091382",
+    "Producto": "Audifonos Alambricos Skullcandy Jib (Negro)",
+    "Marca": "Skullcandy"
+  },
+  {
+    "Material": "810015587195",
+    "Producto": "Audifonos Diadema Skullcandy Hesh Evo (Negro)",
+    "Marca": "Skullcandy"
+  },
+  {
+    "Material": "810045686677",
+    "Producto": "Audifonos Diadema Skullcandy Riff Wireless 2 (Negro)",
+    "Marca": "Skullcandy"
+  },
+  {
+    "Material": "810045688435",
+    "Producto": "Audfonos Inalambricos Skullcandy Dime 3 True Wireless (Negro)",
+    "Marca": "Skullcandy"
+  },
+  {
+    "Material": "810045686592",
+    "Producto": "Audifonos Inalambricos Skullcandy Jib True 2 (Negro)",
+    "Marca": "Skullcandy"
+  },
+  {
+    "Material": "810045688770",
+    "Producto": "Audfonos Inalambricos Skullcandy Smokin' Buds True Wireless (Negro)",
+    "Marca": "Skullcandy"
+  },
+  {
+    "Material": "810145320020",
+    "Producto": "Audfonos Inalambricos Skullcandy Smokin' Buds True Wireless (Blanco)",
+    "Marca": "Skullcandy"
+  },
+  {
+    "Material": "810045688671",
+    "Producto": "Audfonos Inalambricos Skullcandy Dime 3 True Wireless (Blanco)",
+    "Marca": "Skullcandy"
+  },
+  {
+    "Material": "653854213289",
+    "Producto": "Consola M8 Lite Stick Con Videojuegos Retro (Negro)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "829610001272",
+    "Producto": "Tv Box Roku Express Mas Negro",
+    "Marca": "Roku"
+  },
+  {
+    "Material": "7709663596211",
+    "Producto": "Smartwatch Plus D8 Takionneg-Nara",
+    "Marca": "Takion"
+  },
+  {
+    "Material": "2077000490955",
+    "Producto": "Tripode Para Camara Star Tec St-Tp-904 1.3Mts (Gris)",
+    "Marca": "Star Tec"
+  },
+  {
+    "Material": "6941764415218",
+    "Producto": "Celular Realme C53 6Gb Ram 128Gb Rom Dual Sim (Negro)",
+    "Marca": "Realme"
+  },
+  {
+    "Material": "6925281995583",
+    "Producto": "Parlante Bluetooth Jbl Go Essential (Negro)",
+    "Marca": "Jbl"
+  },
+  {
+    "Material": "6950376772480",
+    "Producto": "Diadema Gamer Inalambrica Redragon Pelops H818 (Negro)",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "6950376708793",
+    "Producto": "Parlante Barra Redragon Darknet Gs570 (Negro)",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "6950376774583",
+    "Producto": "Kit Gamer Teclado Y Mouse Redragon K552Rgb-Ba-Sp Con Luces Rgb En Español (Negro)",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "6950376707567",
+    "Producto": "Diadema Gamer Redragon Hylas H260 Con Luces Rgb (Rosa)",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "6950376714404",
+    "Producto": "Teclado Gamer Redragon Fizz Pro K616 Con Luces Rgb Switch Rojo En Español (Blanco-Rosa)",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "6950376710079",
+    "Producto": "Diadema Gamer Redragon Zeus X H510 Con Luces Rgb (Blanco)",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "6941545610672",
+    "Producto": "Camara Inteligente Ezviz Cs-Eb3 (3Mp) 2K Exterior Vision Nocturna A Color (Negro)",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "6950376751454",
+    "Producto": "Teclado Gamer Redragon Kumara K552 Con Luces Rgb Switch Azul En Español (Negro)",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "653854213623",
+    "Producto": "Celular Realme C53 6Gb Ram 128Gb Rom Dual Sim (Dorado)",
+    "Marca": "Realme"
+  },
+  {
+    "Material": "887276634661",
+    "Producto": "Tablet Samsung Galaxy Tab A8 10.5\" 3Gb Ram 32Gb Memoria (Gris)",
+    "Marca": "Samsung"
+  },
+  {
+    "Material": "8806095277813",
+    "Producto": "Tablet Samsung Galaxy Tab A9+ 11\" 8Gb Ram 128Gb Memoria (Gris Claro)",
+    "Marca": "Samsung"
+  },
+  {
+    "Material": "6941545605531",
+    "Producto": "Panel Solar Ezviz Cs-Cmt-Solar Panel-C Para Camaras Ezviz 6W (Blanco)",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "1200130010286",
+    "Producto": "Parlante Bluetooth Jbl Clip 5 (Rojo)",
+    "Marca": "Jbl"
+  },
+  {
+    "Material": "653854213708",
+    "Producto": "Parlante Bluetooth Jbl Go3 (Rojo)",
+    "Marca": "Jbl"
+  },
+  {
+    "Material": "653854213593",
+    "Producto": "Pulverizador Home Elements Hem-B17N Pulver Master (Negro)",
+    "Marca": "Home Element"
+  },
+  {
+    "Material": "196802455183",
+    "Producto": "Tablet Lenovo M8 Tb300Fu 4Ta Generacion 8\" 3Gb Ram 32Gb Memoria (Azul)",
+    "Marca": "Lenovo M8 Tb300Fu"
+  },
+  {
+    "Material": "653854213951",
+    "Producto": "Audifonos Alambricos Jbl T110 (Azul)",
+    "Marca": "Jbl"
+  },
+  {
+    "Material": "653854213739",
+    "Producto": "Audifonos Diadema Bluetooth Jbl Tune 520Bt (Azul)",
+    "Marca": "Jbl"
+  },
+  {
+    "Material": "7453041022495",
+    "Producto": "Smartband Aiwa Aws115 (Negro)",
+    "Marca": "Aiwa"
+  },
+  {
+    "Material": "97855175465",
+    "Producto": "Parlante Ultimate Ears Wonderboom 3 (Rosa)",
+    "Marca": "Ultimate Ears"
+  },
+  {
+    "Material": "6941264042082",
+    "Producto": "Camara Para Carro Hikvision Ae-Dc5013-F6 1600P (Negro)",
+    "Marca": "Hikvision"
+  },
+  {
+    "Material": "850044396863",
+    "Producto": "Smartwatch Cubitt Aura Pro Ct-Aurap2 Gps (Azul)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "6942160435886",
+    "Producto": "Camara Para Carro Hikvision Ae-Dc5313-C6Pro Con Pantalla 4\" 1600P (Negro)",
+    "Marca": "Hikvision"
+  },
+  {
+    "Material": "850044396825",
+    "Producto": "Smartwatch Cubitt Aura Pro Ct-Aurap1 Gps (Negro)",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "653854213586",
+    "Producto": "Mini Wafflera Home Elements Hemw-6201R (Rojo)",
+    "Marca": "Home Element"
+  },
+  {
+    "Material": "6974202726324",
+    "Producto": "Memoria Micro Sd Hiksemi Neo Plus Hs-Tf-E1 Microsdxc Clase 10 95Mb/S (64Gb)",
+    "Marca": "Hiksemi"
+  },
+  {
+    "Material": "6950376776396",
+    "Producto": "Microfono Redragon Quasar Gm200 (Negro)",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "829610007175",
+    "Producto": "Roku Premiere 4K Hdr Streaming 3920Rw-Sw 2023",
+    "Marca": "Roku"
+  },
+  {
+    "Material": "6931000666023",
+    "Producto": "Set 7 Piezas Herramientas En Blister",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "815820025221",
+    "Producto": "Sistema Realidad Virtual Oculus Meta Quest 3S 128Gb (Blanco)",
+    "Marca": "Oculus"
+  },
+  {
+    "Material": "778988424063",
+    "Producto": "Paw Patrol Big Trucks Mega Camión Rubble",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "653854213166",
+    "Producto": "Carro Juguete Construccion Cargador",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "653854213142",
+    "Producto": "Carro Juguete Construccion Excavadora",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "653854213159",
+    "Producto": "Carro Juguete Construccion Volqueta",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "778988366332",
+    "Producto": "Monster Jam Set De Juego Lavado De Carros 1:64",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "6920584910806",
+    "Producto": "Carro Juguete En Caja X 2 Surtido",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "2022051315436",
+    "Producto": "Volqueta Juguete Con Luces Y Sonido Para Ninos",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "653854213173",
+    "Producto": "Carro Juguete Construccion Recolector En Ca",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "778988548233",
+    "Producto": "Monster Jam",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "17817852470",
+    "Producto": "Parlante Bluetooth Bose Soundlink Flex 2Da Generacion (Negro)",
+    "Marca": "Bose"
+  },
+  {
+    "Material": "653854213197",
+    "Producto": "Carro Juguete Construccion Volqueta En Caja",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "653854213180",
+    "Producto": "Carro Juguete Construccion Cargador En Caja",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "17817768412",
+    "Producto": "Parlante Bluetooth Bose Soundlink Micro (Azul)",
+    "Marca": "Bose"
+  },
+  {
+    "Material": "17817837347",
+    "Producto": "Parlante Bluetooth Bose S1 Pro+ (Negro)",
+    "Marca": "Bose"
+  },
+  {
+    "Material": "778988368718",
+    "Producto": "Monster Jam Playset De Juego Garaje",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "810019528828",
+    "Producto": "Altavoz Inteligente Echo Dot 3Ra Generacion Amazon (Gris)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840080563794",
+    "Producto": "Altavoz Inteligente Echo Dot 3Ra Generacion Amazon (Ciruela)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "841667140315",
+    "Producto": "Altavoz Inteligente Echo Dot 3Ra Generacion Amazon (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "6950376776419",
+    "Producto": "Mouse Gamer T-Dagger Brigadier T-Tgm206 (Negro)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "811071032148",
+    "Producto": "Audifonos Inalambricos Aftershokz Aeropex (Negro)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "811071036092",
+    "Producto": "Audifonos Inalambricos Aftershokz Openmove (Gris)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "17817825351",
+    "Producto": "Parlante Bluetooth Bose Soundlink Revolve+ Ii (Negro)",
+    "Marca": "Bose"
+  },
+  {
+    "Material": "653854213494",
+    "Producto": "Combo Roku Express Rok3930Mx-P (Unico) + Tarjeta Regalo Directv Go De $59.900 (Unico)",
+    "Marca": "Roku"
+  },
+  {
+    "Material": "673419352055",
+    "Producto": "Avion Jet Supersonico Lego",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "673419352079",
+    "Producto": "Robot Invencible Lego 3 En 1",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "673419386814",
+    "Producto": "Set City Karts Y Pilotos Carreras Lego",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "673419386838",
+    "Producto": "Lego 3 En 1 Camion Plataforma Con Helicoptero",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "673419387279",
+    "Producto": "Lego Buggy Carreras Tecnich",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "673419388610",
+    "Producto": "Camara Retro Lego 3 En 1",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "711719570820",
+    "Producto": "Vd Combo Consola Sony Ps5 Digital 1Tb Slim Incluy",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "653854213661",
+    "Producto": "Mp Parlante Bluetooth Aws500Bt Tws 40W Rms Boombox",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "653854213609",
+    "Producto": "Mp Crispetera Electrica Roja 235Ml Home Elements",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "7703165014860",
+    "Producto": "Mp Audifonos Gamer Startec St-G5",
+    "Marca": "Star Tec"
+  },
+  {
+    "Material": "653854213654",
+    "Producto": "Mp Parlante Aws200Bt Bluetooth 30W Rms Boombox",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "8806095277974",
+    "Producto": "Mp Tablet Galaxy Tab A9 Plus 128Gb 8Gb 11 Pg Gris",
+    "Marca": "Galaxy"
+  },
+  {
+    "Material": "8806095429977",
+    "Producto": "Mp Tablet Samsung 8.7 Pulgadas A9 128Gb Wifi Gris",
+    "Marca": "Samsung"
+  },
+  {
+    "Material": "653854213272",
+    "Producto": "Mp Multipuerto Usb Star Tec St-Hu-21 4 Puertos 2.0",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "810045687094",
+    "Producto": "Mp Audifonos Skullcandy Ecobud True Wireless Azul",
+    "Marca": "Skullcandy"
+  },
+  {
+    "Material": "6925281946165",
+    "Producto": "Mp Audifonos Alambricos In Ear Jbl C50Hi Negro",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "6920657340806",
+    "Producto": "Carro Juguete Construccion En Tarjeta 4 Su",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "653854213296",
+    "Producto": "Combo Altavoz Inteligente Amazon Echo Dot 5Ta Generacion (Negro) + Cerradura Inteligente Ezviz Cs-Dl05-R200 Timbre Integrado (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "193575004761",
+    "Producto": "Altavoz Inteligente  Google Nest Audio Smart Speaker (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "8806090270062",
+    "Producto": "Auriculares Samsung Akg Samsung Akg Eo-Ic100 Tipo Usb-C",
+    "Marca": "Samsung"
+  },
+  {
+    "Material": "810045686608",
+    "Producto": "Mp Audifonos Jib True 2 Wireless In Ear Gris-Azul",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "745883788491",
+    "Producto": "Cable Belkin Usb-C A Usb-A De 1M Wh",
+    "Marca": "Belkin"
+  },
+  {
+    "Material": "2077000357203",
+    "Producto": "Funda Para Portatil Star Tec St-Sl-005 Con Cremallera (Negro)",
+    "Marca": "Star Tec"
+  },
+  {
+    "Material": "102120101008",
+    "Producto": "Camara Web Genius Facecam 1000X (Negro)",
+    "Marca": "Genius"
+  },
+  {
+    "Material": "653854213890",
+    "Producto": "Combo Altavoz Inteligente Google Home Mini Nest 2 (Negro) + Bombillo Led Inteligente Sylvania Toledo Smart P23863 9W Rgb (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "840268989538",
+    "Producto": "Lector Electronico Amazon Kindle Paperwhite 16Gb (2024) - Black - B0Cfpjyx7P (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "193575004754",
+    "Producto": "Altavoz Inteligente  Google Nest Audio Smart Speaker (Gris)",
+    "Marca": "Google"
+  },
+  {
+    "Material": "840414634886",
+    "Producto": "Lector Electronico Amazon Kindle 6\" 16Gb Memoria Version 2024 (Negro)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "6941545614946",
+    "Producto": "Camara Inteligente 360 Ezviz Cs-H8C 1080P Vision Nocturna A Color (Blanco)",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "653854213838",
+    "Producto": "Combo Altavoz Inteligente Amazon Echo Show 8 2Da Generacion (Negro) + Camara Inteligente Ezviz Cs-C6N 2Mp Full Hd 1080P (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "6941264076872",
+    "Producto": "Camara Web Hikvision Ds-U02 (Negro)",
+    "Marca": "Hikvision"
+  },
+  {
+    "Material": "653854213340",
+    "Producto": "Parlante Bluetooth Toshiba Ty-Asc50B (Negro)",
+    "Marca": "Toshiba"
+  },
+  {
+    "Material": "653854213944",
+    "Producto": "Combo Altavoz Inteligente Amazon Echo Pop 1Ra Generacion (Blanco) + Bombillo Led Inteligente Sylvania Toledo Globo Smart P23864 9W Rgb (Blanco)",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "193022002050",
+    "Producto": "Estacion Energia Portatil Premium 20Ac2P 230",
+    "Marca": "Bluetti"
+  },
+  {
+    "Material": "193022002616",
+    "Producto": "Estacion Energia Portatil Premium 50 Ac50P 504W",
+    "Marca": "Bluetti"
+  },
+  {
+    "Material": "810037291315",
+    "Producto": "Streaming Google Tv 4K Chromecast Porcelain (Blanco)",
+    "Marca": "Google"
+  },
+  {
+    "Material": "17817820189",
+    "Producto": "Parlante Portátil Bose L1 Pro8 Line Array System 120V Na (Negro)",
+    "Marca": "Bose"
+  },
+  {
+    "Material": "27242925205",
+    "Producto": "Audifonos Diadema Sony Ch520B Inalambricos (Negro)",
+    "Marca": "Sony"
+  },
+  {
+    "Material": "711719574293",
+    "Producto": "Control Para Ps5 Sony Dualsense (Blanco)",
+    "Marca": "Sony"
+  },
+  {
+    "Material": "818279029536",
+    "Producto": "Camara Gopro Hero 11 Black Mini (Negro)",
+    "Marca": "GoPro"
+  },
+  {
+    "Material": "4711279513363",
+    "Producto": "Consola Nintendo Switch 2 Hk Speces (Negro)",
+    "Marca": "Nintendo"
+  },
+  {
+    "Material": "4711279513417",
+    "Producto": "Consola Nintendoswitch 2 Mario Kart World Hk Speces (Negro)",
+    "Marca": "Nintendo"
+  },
+  {
+    "Material": "302402670",
+    "Producto": "Detector Inalambrico Ax Home Ds-Pd201P10-Wb - Detecteccion 10Mts (Blanco)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "6931847198985",
+    "Producto": "Ups  Hikvision Ds-Ups1000 600W (Blanco)",
+    "Marca": "Hikvision"
+  },
+  {
+    "Material": "6942160474694",
+    "Producto": "Kit Nvs Wifi Hikvision 4Ch Dos Camaras Bullet 2Mp H.265 (Blanco)",
+    "Marca": "Hikvision"
+  },
+  {
+    "Material": "6942160474700",
+    "Producto": "Kit Seguridad Nvs Wifi Con Camara Bullet + Camr Tipo Domo Turret De  2Mp H.265 (Blanco)",
+    "Marca": "Generica"
+  },
+  {
+    "Material": "6942160475998",
+    "Producto": "Kit Panel  Alarma Inalambrica Hikvision  Wifi 2.4Ghz  (Blanco)",
+    "Marca": "Hikvision"
+  },
+  {
+    "Material": "6931847198992",
+    "Producto": "Ups Hikvision Ds-Ups600X/Us  360W (Blanco)",
+    "Marca": "Hikvision"
+  },
+  {
+    "Material": "193022001442",
+    "Producto": "Portable Power Bluetti Station Premium 150 (Ac180P) 1,800W/1,440Wh P-Ac180P-Us-Gy-Bl-010 (Negro)",
+    "Marca": "Bluetti"
+  },
+  {
+    "Material": "711719602569",
+    "Producto": "Playstation 5 Slim Standar 1Tb Consola Sony  + Juegos",
+    "Marca": "Sony"
+  },
+  {
+    "Material": "7503044729164",
+    "Producto": "Impresora Termica Digital Pos Dige200I",
+    "Marca": "Digital Pos"
+  },
+  {
+    "Material": "7503044729812",
+    "Producto": "Impresora Termica Digital Pos Digish58",
+    "Marca": "Digital Pos"
+  },
+  {
+    "Material": "7503050941307",
+    "Producto": "Cajon Monedero Digital Pos Dig Kr410",
+    "Marca": "Digital Pos"
+  },
+  {
+    "Material": "7503050941376",
+    "Producto": "Lector Codigo Barras Digital Pos Digd40Rb 2D I",
+    "Marca": "Digital Pos"
+  },
+  {
+    "Material": "829610007847",
+    "Producto": "Roku Streaming Stick Plus 4K 2025 (Negro)",
+    "Marca": "Roku"
+  },
+  {
+    "Material": "829610008424",
+    "Producto": "Roku Streaming Stick Hd 2025 (Negro)",
+    "Marca": "Roku"
+  },
+  {
+    "Material": "6941545631301",
+    "Producto": "Camara Ezviz 3 Mp Wifi Exteriores Cs-H8C-R200",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "7501234560559",
+    "Producto": "Camara Wifii Nterior Ezviz Vision Dia/Noche 3 Mp",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "27242931923",
+    "Producto": "Parlante Sony Ult Tower 9 - Srs-Ult900 (Negro)",
+    "Marca": "Sony"
+  },
+  {
+    "Material": "7501234560009",
+    "Producto": "Camara Ezviz Wifi Exterior Fija - Ip 3Mp - Cs-H3C",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "17817846639",
+    "Producto": "Bose Paquete Audio Profesiona Audiopack Pro S4",
+    "Marca": "Bose"
+  },
+  {
+    "Material": "17817846585",
+    "Producto": "Bose Paquete De Audio Profesional Audiopack Pro C",
+    "Marca": "Bose"
+  },
+  {
+    "Material": "695037671479",
+    "Producto": "Mp Switches Redragon A113 38 Unidad Panda Cristal",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "695037671748",
+    "Producto": "Mp Teclado Inalam Gamer Redrag Horus K632 Pro Rgb",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "207700108168",
+    "Producto": "Mp Gv Echo Show 5 3Ra Gen Hd Alta Int Pant Setx5Un",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "695037677640",
+    "Producto": "Mp Microfono Redragon Blazar Gm300",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "697420272629",
+    "Producto": "Mp Memoria Microsd Hs-Tf-E1 (32Gb) Clase 10",
+    "Marca": "Hiksemi"
+  },
+  {
+    "Material": "697420272633",
+    "Producto": "Mp Memoria Microsd Hs-Tf-E1 (128Gb) Clase 10",
+    "Marca": "Hiksemi"
+  },
+  {
+    "Material": "697420272605",
+    "Producto": "Mp Memoria Microsd Hs-Tf-C1 256Gb Clase 10",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "85004439680",
+    "Producto": "Smartwatch Sm Reloj Inteligente Cubitt Aura Blueto",
+    "Marca": "Cubitt"
+  },
+  {
+    "Material": "695676690795",
+    "Producto": "Mp Audifonos Gamer Sades Spirits Sa-721 Rojo",
+    "Marca": "Sades"
+  },
+  {
+    "Material": "695676690794",
+    "Producto": "Mp Audifonos Gamer Sades Spirits Sa-721 Azul",
+    "Marca": "Sades"
+  },
+  {
+    "Material": "695676690789",
+    "Producto": "Mp Audifonos Gamer Sades Mpower Sa-723 Azul",
+    "Marca": "Sades"
+  },
+  {
+    "Material": "695676690756",
+    "Producto": "Mp Audifonos Gamer Sades Dpower Sa-722 Azul",
+    "Marca": "Sades"
+  },
+  {
+    "Material": "81004568677",
+    "Producto": "Mp Audifonos Gamer Slyr Skullcandy Negro-Fucsia",
+    "Marca": "Skullcandy"
+  },
+  {
+    "Material": "81014532025",
+    "Producto": "Mp Audifonos Hesh Evo Inalambricos Blanco",
+    "Marca": "Skullcandy"
+  },
+  {
+    "Material": "81001558852",
+    "Producto": "Mp Audifonos Hesh Anc Inalambricos Blanco",
+    "Marca": "Skullcandy"
+  },
+  {
+    "Material": "81001558725",
+    "Producto": "Mp Audifonos Crusher Evo Inalambricos Gris",
+    "Marca": "Skullcandy"
+  },
+  {
+    "Material": "81004568676",
+    "Producto": "Mp Audifonos Jib True 2 Wireless In Ear Gris",
+    "Marca": "Skullcandy"
+  },
+  {
+    "Material": "81014532023",
+    "Producto": "Mp Audifonos Crusher Evo Inalambricos Blanco",
+    "Marca": "Skullcandy"
+  },
+  {
+    "Material": "87861509861",
+    "Producto": "Mp Audifonos Alambricos Jib Con Mic In Ear Azul Os",
+    "Marca": "Skullcandy"
+  },
+  {
+    "Material": "87861509247",
+    "Producto": "Mp Audifonos Alambricos Jib Con Mic In Ear Azul Cl",
+    "Marca": "Skullcandy"
+  },
+  {
+    "Material": "65385421300",
+    "Producto": "Mp Audifonos Jbl Waveflex Inalamb Bluet Inear Blan",
+    "Marca": "Jbl"
+  },
+  {
+    "Material": "9785517545",
+    "Producto": "Mp Parlante Impermeable Bluetoo Ultimate Ears Azul",
+    "Marca": "Ultimate Ears"
+  },
+  {
+    "Material": "84026899774",
+    "Producto": "Mp Kindle Amazon Signature 32Gb Colorsoft 2024",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "694154560729",
+    "Producto": "Mp Camara Int Cs C8Pf 2Mp 340 Ext Doble Lente 30M",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "694154560793",
+    "Producto": "Mp Kit Alarma Inalambrico Inteligen Ezviz Cs-B1-A0",
+    "Marca": "Ezviz"
+  },
+  {
+    "Material": "74588387206",
+    "Producto": "Mp Powerbank Bateria Magnetica Qi2 15W Belkin 5000",
+    "Marca": "Belkin"
+  },
+  {
+    "Material": "695037677989",
+    "Producto": "Mp Alfombrilla Gamer Redragon Flick P031",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "84026899829",
+    "Producto": "Mp Amazon Kindle Paperwhite 7Pg 16Gb 12Va Gen 2024",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "84026898667",
+    "Producto": "Mp Kindle Amazon Signature Edition 7 Pg 32Gb 2024",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "84041461995",
+    "Producto": "Mp Kindle Amazon 6 Pulgadas 16Gb 11Gen 2024",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "695037672233",
+    "Producto": "Mp Botonera Streamcraft Redragon Ss550 Color Negro",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "695037677696",
+    "Producto": "Mp Teclado Gamer Draconic K530 Rgb Switch Cafe",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "81368202366",
+    "Producto": "Mp Teclado Alambrico Gamer Apex 7 Tkl Switch Rojo",
+    "Marca": "Steelseries"
+  },
+  {
+    "Material": "81368202364",
+    "Producto": "Mp Teclado Alambrico Gamer Steelseries Apex Pro",
+    "Marca": "Steelseries"
+  },
+  {
+    "Material": "81368202365",
+    "Producto": "Mp Teclado Alambrico Gamer Apex 7 Switch Rojo",
+    "Marca": "Steelseries"
+  },
+  {
+    "Material": "695037672191",
+    "Producto": "Mp Control Game Pad Redragon G818 Juno Pc Ps3 Ps4",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "695037677438",
+    "Producto": "Mp Teclado Gamer Diti K585 Rgb Switch Azul",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "695037677999",
+    "Producto": "Mp Teclado Gamer Redragon K587 Rgb Magic Wand Pro",
+    "Marca": "Redragon"
+  },
+  {
+    "Material": "496892903664",
+    "Producto": "Mp Parlante Harman Kardon Onyx Studio 9 50W Rms",
+    "Marca": "Harman Kardon"
+  },
+  {
+    "Material": "19764490478",
+    "Producto": "Mp Parlante Jbl Charge 5 Bluetooth 40W Rms Rojo",
+    "Marca": "Jbl"
+  },
+  {
+    "Material": "120013000836",
+    "Producto": "Mp Audifonos A Kg N5 Hybrid Tws",
+    "Marca": "Jbl"
+  },
+  {
+    "Material": "692528198208",
+    "Producto": "Mp Parlante Jbl Charge 5 Bluetooth 40W Rms",
+    "Marca": "Jbl"
+  },
+  {
+    "Material": "692528199425",
+    "Producto": "Mp Parlante Jbl Flip 6 Bluetooth Waterproof 30W",
+    "Marca": "Jbl"
+  },
+  {
+    "Material": "5003638442",
+    "Producto": "Mp Parlante Flip 6 Bluetooth Waterproof 30W Rojo",
+    "Marca": "Jbl"
+  },
+  {
+    "Material": "84026890459",
+    "Producto": "Mp Kindle Amazon Signature Edit 7Pg 32Gb 2024 Rosa",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "84026890039",
+    "Producto": "Mp Kindle Amazon Signature Edit 7Pg 32Gb 2024 Jade",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "745304102254",
+    "Producto": "Mp Smartwatch Aiwa 1.7 Pulgadas Bluetooth",
+    "Marca": "Aiwa"
+  },
+  {
+    "Material": "75375927870",
+    "Producto": "Vd Reloj Inteligen Smartwatch Garmin Instinct 2S S",
+    "Marca": "Garmin"
+  },
+  {
+    "Material": "81381001042",
+    "Producto": "Mp Pad Mouse Steelseries Qckn Negro",
+    "Marca": "Steel"
+  },
+  {
+    "Material": "81381001043",
+    "Producto": "Mp Pad Mouse Steelseries Qck Mini",
+    "Marca": "Steel"
+  },
+  {
+    "Material": "81368202561",
+    "Producto": "Mp Pad Mouse Steelseries Gamer Qck Edge M",
+    "Marca": "Steel"
+  },
+  {
+    "Material": "81368202562",
+    "Producto": "Mp Pad Mouse Steelseries Gamer Qck Edge Xl",
+    "Marca": "Steel"
+  },
+  {
+    "Material": "85001411972",
+    "Producto": "Mp Diadema Steelseries Arctis Nova 1",
+    "Marca": "Steel"
+  },
+  {
+    "Material": "81005298320",
+    "Producto": "Mp Diadema Steelseries Arctis Nova 1 Blanco",
+    "Marca": "Steel"
+  },
+  {
+    "Material": "85001411976",
+    "Producto": "Mp Diadema Steelseries Arctis Nova 3 Alambrico",
+    "Marca": "Steel"
+  },
+  {
+    "Material": "81368202771",
+    "Producto": "Mp Diadema Steelseries Arctis Nova 7 Negro",
+    "Marca": "Steel"
+  },
+  {
+    "Material": "85001411948",
+    "Producto": "Mp Mouse Gamer De Juego Steelseries Aerox 3 Onyx B",
+    "Marca": "Steel"
+  },
+  {
+    "Material": "81368202704",
+    "Producto": "Mp Mouse Gamer De Juego Steelseries Rival 3",
+    "Marca": "Steel"
+  },
+  {
+    "Material": "81368202726",
+    "Producto": "Mp Mouse Gamer Steelseries Rival 3 Inalambrico",
+    "Marca": "Steel"
+  },
+  {
+    "Material": "81005298168",
+    "Producto": "Mp Mouse Gamer De Juego Steelseries Aerox 3 Onyx",
+    "Marca": "Steel"
+  },
+  {
+    "Material": "694216047460",
+    "Producto": "Hikvision Easy Link Wifi Dvr+ 2 Camaras Exteriore",
+    "Marca": "Hikvision"
+  },
+  {
+    "Material": "71171958819",
+    "Producto": "Vd Playstation Sony 5 Slim Console Digital Edition",
+    "Marca": "Sony"
+  },
+  {
+    "Material": "84026893509",
+    "Producto": "Amazon Fire Tv Stick 4K 8 Gb Negro",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "120013001948",
+    "Producto": "Mp Parlante Jbl Charge 6 Bluetooth 45W Rms Azul",
+    "Marca": "Jbl"
+  },
+  {
+    "Material": "471138783257",
+    "Producto": "Mp Portatil Asus Expertbook B1 Full Hd 14Pg Intel",
+    "Marca": "Asus"
+  },
+  {
+    "Material": "27242931886",
+    "Producto": "Parlante Sony Ult Field 3 Negro 40 Rms",
+    "Marca": "Sony"
+  },
+  {
+    "Material": "27242931893",
+    "Producto": "Parlante Sony Ult Field 3 Gris 40 Rms",
+    "Marca": "Sony"
+  },
+  {
+    "Material": "84041468480",
+    "Producto": "Mp Kindle Amazon 6 Pulgadas 16Gb 11Gen 2024 Verde",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "750123456050",
+    "Producto": "Fire Tv Stick Hd Negro Amazon",
+    "Marca": "Amazon"
+  },
+  {
+    "Material": "454873616515",
+    "Producto": "Parlante Sony Ult Field 5 Negro",
+    "Marca": "Sony"
+  },
+  {
+    "Material": "8806097046462",
+    "Producto": "Parlante Barra de Sonido Samsung Hw-b0400f/zl",
+    "Marca": "Samsung"
+  }
+]

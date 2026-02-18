@@ -1,1 +1,7727 @@
-[]
+[
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "193575000640",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "193575000640",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "193575000640",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "193575000640",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "193575000640",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "193575000640",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "193575000640",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "193575000640",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "193575000657",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "193575000657",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "193575000657",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670104971",
+    "Material": "193575000657",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "193575000657",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "193575000657",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "193575000657",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "193575000657",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "193575000657",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670104971",
+    "Material": "829610004471",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "829610004471",
+    "Inventario": 12
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "829610004471",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "829610004471",
+    "Inventario": 17
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "829610004471",
+    "Inventario": 22
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "829610004471",
+    "Inventario": 44
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "829610004471",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "829610004471",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "829610004471",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "829610004471",
+    "Inventario": 16
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "829610004471",
+    "Inventario": 16
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "829610004471",
+    "Inventario": 18
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "829610004471",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "829610004471",
+    "Inventario": 15
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "829610004471",
+    "Inventario": 16
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "829610004471",
+    "Inventario": 17
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "829610004471",
+    "Inventario": 18
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "829610004471",
+    "Inventario": 24
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "829610004471",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "829610004471",
+    "Inventario": 15
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "829610004471",
+    "Inventario": 15
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "829610004471",
+    "Inventario": 28
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "829610004471",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "829610004471",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "829610004471",
+    "Inventario": 16
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "829610004471",
+    "Inventario": 17
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "829610004471",
+    "Inventario": 19
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "829610004471",
+    "Inventario": 20
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "829610004471",
+    "Inventario": 24
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "829610004471",
+    "Inventario": 40
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "829610004471",
+    "Inventario": 71
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "829610004471",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "829610004471",
+    "Inventario": 16
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "829610004471",
+    "Inventario": 18
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "829610004471",
+    "Inventario": 20
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "829610004471",
+    "Inventario": 37
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "829610004471",
+    "Inventario": 43
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "829610004471",
+    "Inventario": 43
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "829610004471",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "829610004471",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "829610004471",
+    "Inventario": 15
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "829610004471",
+    "Inventario": 15
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "829610004471",
+    "Inventario": 47
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "7501234560009",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "7501234560009",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "7501234560009",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "7501234560009",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "7501234560009",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "7501234560009",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "7501234560009",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "7501234560009",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "7501234560009",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "7501234560009",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "7501234560009",
+    "Inventario": 12
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "7501234560009",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "7501234560009",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "7501234560009",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "7501234560009",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "7501234560009",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "7501234560009",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "7501234560009",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "7501234560009",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "7501234560009",
+    "Inventario": 9
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "7501234560009",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "7501234560009",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "7501234560009",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "7501234560009",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "7501234560009",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "7501234560009",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "7501234560009",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "7501234560009",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "7501234560009",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "7501234560009",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "7501234560009",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "7501234560009",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "7501234560009",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "7501234560009",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "7501234560009",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "7501234560009",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "7501234560009",
+    "Inventario": 9
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "7501234560009",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "7501234560009",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "7501234560009",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "7501234560009",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "7501234560009",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "17817846585",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "17817846585",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "17817846585",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "17817846585",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "17817846585",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "17817846585",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "17817846585",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "7501234560504",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "7501234560504",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "7501234560504",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "7501234560504",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "7501234560504",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "840268971229",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "840268971229",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "840268971229",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "840268971229",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "840268971229",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "840268971229",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "840268971229",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "840268971229",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "840268971229",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "840268971229",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "8806097046462",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "8806097046462",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "8806097046462",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "8806097046462",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "8806097046462",
+    "Inventario": 9
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "8806097046462",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "8806097046462",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "8806097046462",
+    "Inventario": 24
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "8806097046462",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "8806097046462",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "8806097046462",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "8806097046462",
+    "Inventario": 9
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "8806097046462",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "8806097046462",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "8806097046462",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "8806097046462",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "653854213012",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "653854213012",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "653854213012",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "653854213012",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "653854213012",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "653854213012",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "653854213012",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "829610004624",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "829610004624",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "829610004624",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "829610004624",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "829610004624",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "829610004624",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "829610004624",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "829610004624",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "829610004624",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "829610004624",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "829610004624",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "829610004624",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "829610004624",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "829610004624",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "829610004624",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "829610004624",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "829610004624",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "829610004624",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "829610004624",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "829610004624",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "829610004624",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "829610004624",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "829610004624",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "829610004624",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "829610004624",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "829610004624",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "829610004624",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "829610004624",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670104971",
+    "Material": "829610004624",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "829610004624",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "97855124180",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "97855124180",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "97855124180",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "97855124180",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "97855124180",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "97855124180",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "97855124180",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "97855124180",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "97855124180",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "97855124180",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "840080594262",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "840080594262",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "840080594262",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "840080594262",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "840080594262",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "840080553399",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "840080553399",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "840080553399",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "840080553399",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "840080553399",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "840080503653",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "840080503653",
+    "Inventario": 12
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "840080503653",
+    "Inventario": 25
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "840080503653",
+    "Inventario": 28
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "840080503653",
+    "Inventario": 36
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "840080503653",
+    "Inventario": 46
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "840080503653",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "840080503653",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "840080503653",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "840080503653",
+    "Inventario": 18
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "840080503653",
+    "Inventario": 25
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "840080503653",
+    "Inventario": 30
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "840080503653",
+    "Inventario": 12
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "840080503653",
+    "Inventario": 12
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "840080503653",
+    "Inventario": 15
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "840080503653",
+    "Inventario": 17
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "840080503653",
+    "Inventario": 22
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "840080503653",
+    "Inventario": 24
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "840080503653",
+    "Inventario": 35
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "840080503653",
+    "Inventario": 44
+  },
+  {
+    "Centro Costos": "7703670104971",
+    "Material": "840080503653",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "840080503653",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "840080503653",
+    "Inventario": 16
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "840080503653",
+    "Inventario": 25
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "840080503653",
+    "Inventario": 26
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "840080503653",
+    "Inventario": 43
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "840080503653",
+    "Inventario": 16
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "840080503653",
+    "Inventario": 19
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "840080503653",
+    "Inventario": 40
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "840080503653",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "840080503653",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "840080503653",
+    "Inventario": 15
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "840080503653",
+    "Inventario": 17
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "840080503653",
+    "Inventario": 21
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "840080503653",
+    "Inventario": 33
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "840080503653",
+    "Inventario": 59
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "840080503653",
+    "Inventario": 12
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "840080503653",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "840080503653",
+    "Inventario": 17
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "840080503653",
+    "Inventario": 49
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "840080503653",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "840080503653",
+    "Inventario": 25
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "840080503653",
+    "Inventario": 28
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "840080527079",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "840080527079",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "840080527079",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "840080527079",
+    "Inventario": 15
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "840080527079",
+    "Inventario": 16
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "840080527079",
+    "Inventario": 16
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "840080527079",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "840080527079",
+    "Inventario": 15
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "840080527079",
+    "Inventario": 19
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "840080527079",
+    "Inventario": 25
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "840080527079",
+    "Inventario": 27
+  },
+  {
+    "Centro Costos": "7703670104971",
+    "Material": "840080527079",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "840080527079",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "840080527079",
+    "Inventario": 16
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "840080527079",
+    "Inventario": 16
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "840080527079",
+    "Inventario": 19
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "840080527079",
+    "Inventario": 12
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "840080527079",
+    "Inventario": 25
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "840080527079",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "840080527079",
+    "Inventario": 12
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "840080527079",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "840080527079",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "840080527079",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "840080527079",
+    "Inventario": 15
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "840080527079",
+    "Inventario": 16
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "840080527079",
+    "Inventario": 18
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "840080527079",
+    "Inventario": 18
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "840080527079",
+    "Inventario": 12
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "840080527079",
+    "Inventario": 12
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "840080527079",
+    "Inventario": 12
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "840080527079",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "840080527079",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "840080527079",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "840080527079",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "840080527079",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "840080527079",
+    "Inventario": 24
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "840080527079",
+    "Inventario": 27
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "840080527079",
+    "Inventario": 27
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "840080527079",
+    "Inventario": 38
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "840080527079",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "840080527079",
+    "Inventario": 18
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "840080527079",
+    "Inventario": 21
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "840080527079",
+    "Inventario": 27
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "840080531083",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "840080531083",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "840080531083",
+    "Inventario": 16
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "840080531083",
+    "Inventario": 18
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "840080531083",
+    "Inventario": 19
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "840080531083",
+    "Inventario": 26
+  },
+  {
+    "Centro Costos": "7703670104971",
+    "Material": "840080531083",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "840080531083",
+    "Inventario": 12
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "840080531083",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "840080531083",
+    "Inventario": 15
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "840080531083",
+    "Inventario": 19
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "840080531083",
+    "Inventario": 21
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "840080531083",
+    "Inventario": 21
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "840080531083",
+    "Inventario": 51
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "840080531083",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "840080531083",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "840080531083",
+    "Inventario": 21
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "840080531083",
+    "Inventario": 12
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "840080531083",
+    "Inventario": 12
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "840080531083",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "840080531083",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "840080531083",
+    "Inventario": 18
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "840080531083",
+    "Inventario": 18
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "840080531083",
+    "Inventario": 24
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "840080531083",
+    "Inventario": 24
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "840080531083",
+    "Inventario": 12
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "840080531083",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "840080531083",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "840080531083",
+    "Inventario": 22
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "840080531083",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "840080531083",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "840080531083",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "840080531083",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "840080531083",
+    "Inventario": 18
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "840080531083",
+    "Inventario": 21
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "840080531083",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "840080531083",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "840080531083",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "840080531083",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "840080531083",
+    "Inventario": 16
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "840080531083",
+    "Inventario": 17
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "840080531083",
+    "Inventario": 21
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "840080531083",
+    "Inventario": 39
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "840080570136",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "840080570136",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "840080570136",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "840080570136",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "840080570136",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "653854213715",
+    "Inventario": 9
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "653854213715",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "653854213715",
+    "Inventario": 18
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "653854213715",
+    "Inventario": 20
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "653854213715",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "653854213715",
+    "Inventario": 18
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "653854213715",
+    "Inventario": 20
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "653854213715",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "653854213715",
+    "Inventario": 12
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "653854213715",
+    "Inventario": 15
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "653854213715",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "653854213715",
+    "Inventario": 16
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "653854213715",
+    "Inventario": 16
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "840268935870",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "840268935870",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "840268935870",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "840268935870",
+    "Inventario": 9
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "840268935870",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "840268935870",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "840268935870",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "840268935870",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "840268935870",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "840268935870",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "840268935870",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "840268935870",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "840268935870",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "840268935870",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "840268935870",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "840268935870",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "840268935870",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "840268935870",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "840268935870",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "840268935870",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "840268935870",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670104971",
+    "Material": "840268935870",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "840268935870",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "840268935870",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "840268935870",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "840268935870",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "840268935870",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "840268935870",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "840268935870",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "840268935870",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "840268935870",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "840268935870",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "840268907235",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "840268907235",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "840268907235",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "840268907235",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "840268907235",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "840268907235",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "840268907235",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "840268907235",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "840268907235",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "840268907235",
+    "Inventario": 15
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "840268907235",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "840268907235",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "840268907235",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "840268907235",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "840268907235",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "840268907235",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "840268907235",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "840268907235",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "840268907235",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "840268907235",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "840268907235",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "840268907235",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "840268907235",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "840268907235",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "840268907235",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "840268907235",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "840268907235",
+    "Inventario": 19
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "840268907235",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "840268907235",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "840268907235",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "840268907235",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "840268907235",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "840268907235",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "840268907235",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "840268907235",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "840268907235",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "840268907235",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "840268907235",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "840268907235",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "840268907235",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "840268907235",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "840268907235",
+    "Inventario": 9
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "840080505848",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "840080505848",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "840080505848",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "840080505848",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "840080505848",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "840080505848",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "840080505848",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "840080505848",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "840080505848",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "840080505848",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "840080505848",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "840080505848",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "840080505848",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "840080505848",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "840080505848",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "840080505848",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "840080505848",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "840080505848",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "840080505848",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "840080505848",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "840080505848",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "840080505848",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "840080505848",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "840080505848",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "840080505848",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "840080505848",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "840080505848",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "840080505848",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "840080505848",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "840080505848",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "840080505848",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "840080505848",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "840080505848",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "840080505848",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "840080505848",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "840080505848",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "840080505848",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "840080505848",
+    "Inventario": 12
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "6941545617800",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "6941545617800",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "6941545617800",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "6941545617800",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "6941545617800",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "6941545616438",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "6941545616438",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "6941545616438",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "6941545616438",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "840080571539",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "840080571539",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "840080571539",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "840080571539",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "840080571539",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "840080571539",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "840080571539",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "840080571539",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "840080571539",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "840080571539",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "840080571539",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "840080571539",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "840080571539",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "840080571539",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "840080571539",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "840080571539",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "840080571539",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "840080571539",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "840080571539",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "840080571539",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "840080571539",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "840080571539",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "840080571539",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "840080571539",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "840080571539",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "840080571539",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "840080571539",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "840080571539",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "840080571539",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "840080571539",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "840080571539",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "840080571539",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "840080571539",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "840080571539",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "840080571539",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "840080571539",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "840080571539",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "840080571539",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "840080571539",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "840080571539",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "840080571539",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "840080571539",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "829610004945",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "829610004945",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "829610004945",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "829610004945",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "829610004945",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "829610004945",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "829610004945",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "829610004945",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "829610004945",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "829610004945",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "829610004945",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "829610004945",
+    "Inventario": 19
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "829610004945",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "829610004945",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "829610004945",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "829610004945",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "829610004945",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "829610004945",
+    "Inventario": 12
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "829610004945",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "829610004945",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "829610004945",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "829610004945",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "829610004945",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "829610004945",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670104971",
+    "Material": "829610004945",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "829610004945",
+    "Inventario": 9
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "829610004945",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "829610004945",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "829610004945",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "829610004945",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "829610004945",
+    "Inventario": 40
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "829610004945",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "829610004945",
+    "Inventario": 16
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "840268946920",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "840268946920",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "840268946920",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "840268946920",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "840268946920",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "840268946920",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "840268946920",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "840268946920",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "840268946920",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "840268946920",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "840268946920",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "840268946920",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "840268946920",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "840268946920",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "840268946920",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "840268946920",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "840268946920",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "840268946920",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "840268946920",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "840268946920",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "840268946920",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "840268946920",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "840268946920",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "840268946920",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "840268946920",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "840268946920",
+    "Inventario": 9
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "850044396610",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "850044396610",
+    "Inventario": 20
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "850044396610",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "850044396696",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "850044396696",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "850044396696",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "850044396696",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "6941545618593",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "6941545618593",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "6941545618593",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "653854213524",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "653854213524",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "653854213524",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "653854213524",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "749460894483",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "749460894483",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "749460894483",
+    "Inventario": 9
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "749460894483",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "850044396559",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "850044396559",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "850044396559",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "850044396559",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "850044396559",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "850044396559",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "749460894506",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "749460894506",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "749460894506",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "6941545617688",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "6941545617688",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "6941545617688",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "6941545617688",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "6941545617688",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "6941545617688",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "6941545617688",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "6941545617688",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "6941545617688",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "6941545617688",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "6941545617688",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "6941545617688",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "6941545617688",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "6941545617688",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "850044396504",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "850044396504",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "810045688770",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "810045688770",
+    "Inventario": 124
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "6941545634043",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "6941545634043",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "6941545634043",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "6941545634043",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "6941545634043",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "6941545634043",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "6941545634043",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "6941545634043",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "6941545634043",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "6941545634043",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "6941545634043",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "6941545634043",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "6941545634043",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "6941545634043",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "6941545634043",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "6941545634043",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "6941545634043",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "6941545634043",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "6941545634043",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "6941545634043",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "6941545634043",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "6941545634043",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "6941545634043",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "6941545634043",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "6941545634043",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "6941545634043",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "6941545634043",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "6941545634043",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "17817837347",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "17817837347",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "17817837347",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "17817837347",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "17817837347",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "17817837347",
+    "Inventario": 9
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "17817837347",
+    "Inventario": 9
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "17817837347",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "17817837347",
+    "Inventario": 12
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "17817837347",
+    "Inventario": 75
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "17817837347",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "17817837347",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "17817837347",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "17817837347",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "17817837347",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "17817837347",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "17817837347",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "17817837347",
+    "Inventario": 9
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "17817837347",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "829610007175",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "829610007175",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "829610007175",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "829610007175",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "829610007175",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "829610007175",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "829610007175",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "829610007175",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "829610007175",
+    "Inventario": 9
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "829610007175",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "829610007175",
+    "Inventario": 41
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "829610007175",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "829610007175",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "829610007175",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "829610007175",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "829610007175",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "829610007175",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "829610007175",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "829610007175",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "829610007175",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "829610007175",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "829610007175",
+    "Inventario": 12
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "829610007175",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "829610007175",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "829610007175",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "829610007175",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "829610007175",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "829610007175",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "829610007175",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "829610007175",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "829610007175",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "829610007175",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670104971",
+    "Material": "829610007175",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "17817820189",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "17817820189",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "17817820189",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "17817820189",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "17817820189",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "17817820189",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "17817820189",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "17817820189",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "17817820189",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "17817820189",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "17817820189",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "193022002050",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "193022002050",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "193022002050",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "193022002050",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "193022002050",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "193022002050",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "193022002050",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "193022002050",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "193022002050",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "193022002050",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "193022002050",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "193022002050",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "193022002050",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "193022002050",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "193022002050",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "193022002616",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "193022002616",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "193022002616",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "193022002616",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "193022002616",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "193022002616",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "193022002616",
+    "Inventario": 19
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "193022002616",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "193022002616",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "193022002616",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "193022002616",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "193022002616",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "193022002616",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "193022002616",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "193022002616",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "193022002616",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "193022002616",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "193022002616",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "193022002616",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "193022002616",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "193022002616",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "193022002616",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "193022002616",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "193022002616",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "193022002616",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "193022002616",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "193022002616",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "193022002616",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "193022002616",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "193022002616",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "193022002616",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "6931847198985",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "6931847198985",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "6931847198985",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "6931847198985",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "6931847198985",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "6931847198985",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "6931847198985",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "6931847198985",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "6931847198985",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "6931847198985",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "6931847198985",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "6931847198985",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "6931847198985",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "6931847198985",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "6931847198985",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "6931847198985",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "6931847198985",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "6931847198985",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "6931847198985",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "6931847198985",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "6931847198985",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "6931847198985",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "6931847198985",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "6931847198985",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "6931847198985",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "6931847198985",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "6931847198985",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "6931847198985",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "6931847198985",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "6931847198985",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "6931847198985",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "6931847198985",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "6931847198985",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "6931847198985",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "6931847198985",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "6931847198985",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "6931847198985",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "6931847198985",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "6931847198985",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "6931847198985",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "6931847198985",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "6931847198992",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "6931847198992",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "6931847198992",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "6931847198992",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "6931847198992",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "6931847198992",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "6931847198992",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "6931847198992",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "6931847198992",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "6931847198992",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "6931847198992",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "6931847198992",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "6931847198992",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "6931847198992",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "6931847198992",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "6931847198992",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "6931847198992",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "6931847198992",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "6931847198992",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "6931847198992",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "6931847198992",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "6931847198992",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "6931847198992",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "6931847198992",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "6931847198992",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "6931847198992",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "6931847198992",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "6931847198992",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "6931847198992",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "6931847198992",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "6931847198992",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "6931847198992",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "6931847198992",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "6931847198992",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "6931847198992",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "6931847198992",
+    "Inventario": 9
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "6931847198992",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "6931847198992",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "6931847198992",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "6931847198992",
+    "Inventario": 17
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "6942160474700",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "6942160474700",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "6942160474700",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "6942160474700",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "6942160474700",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "6942160474700",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "6942160474700",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "6942160474700",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "6942160474700",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "6942160474700",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "6942160474700",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "6942160474700",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "6942160474700",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "6942160474700",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "6942160474700",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "6942160474700",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "6942160474700",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "6942160474700",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "6942160474700",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "6942160474700",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "6942160474700",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "6942160474700",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "6942160474700",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "6942160474700",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "6942160474700",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "6942160474700",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "6942160474700",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "6942160474700",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "6942160474700",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "6942160474700",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "6942160474700",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "6942160474700",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "6942160474700",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "6942160474700",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "6942160474700",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "302402670",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "302402670",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "302402670",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "302402670",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "302402670",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "302402670",
+    "Inventario": 20
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "302402670",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "302402670",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "302402670",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "302402670",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "302402670",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "302402670",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "302402670",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "302402670",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "302402670",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "302402670",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "6942160475998",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "6942160475998",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "6942160475998",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "6942160475998",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "6942160475998",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "6942160475998",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "6942160475998",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "6942160475998",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "6942160475998",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "6942160475998",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "6942160475998",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "6942160474694",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "6942160474694",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "6942160474694",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "6942160474694",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "6942160474694",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "6942160474694",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "6942160474694",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "6942160474694",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "6942160474694",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "6942160474694",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "6942160474694",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "6942160474694",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "6942160474694",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "6942160474694",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "6942160474694",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "6942160474694",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "6942160474694",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "6942160474694",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "6942160474694",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "6942160474694",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "6942160474694",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "6942160474694",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "6942160474694",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "6942160474694",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "6942160474694",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "6942160474694",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "6942160474694",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "6942160474694",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "6942160474694",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "6942160474694",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "6942160474694",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "6942160474694",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "6942160474694",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "6942160474694",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "6942160474694",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "6942160474694",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "6942160474694",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "6942160474694",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "6942160474694",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "6942160474694",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "840268935092",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "840268935092",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "840268935092",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "840268935092",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "840268935092",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "840268935092",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "7503050941307",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "7503050941307",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "7503050941307",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "7503050941307",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "7503050941307",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "7503050941307",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "7503050941307",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "7503050941307",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "7503050941307",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "7503050941307",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "7503050941307",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "7503050941307",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "7503050941307",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "7503050941307",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "7503050941307",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "7503050941307",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "7503050941307",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "7503044729164",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "7503044729164",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "7503044729164",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "7503044729164",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "7503044729164",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "7503044729164",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "7503044729164",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "7503044729164",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "7503044729164",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "7503044729164",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "7503044729164",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670104971",
+    "Material": "7503044729164",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "7503044729164",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "7503044729164",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "7503044729164",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "7503044729164",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "7503044729164",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "7503044729164",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "7503044729164",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "829610007847",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "829610007847",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "829610007847",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "829610007847",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "829610007847",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "829610007847",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "829610007847",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "829610007847",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "829610007847",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "829610007847",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "829610007847",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "829610007847",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "829610007847",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "829610007847",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "829610007847",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "829610007847",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "829610007847",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "829610007847",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "829610007847",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "829610007847",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "829610007847",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "829610007847",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "829610007847",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "829610007847",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "829610007847",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "829610007847",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "829610007847",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "829610007847",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "829610007847",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "829610007847",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "829610007847",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "829610007847",
+    "Inventario": 18
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "829610008424",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "829610008424",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "829610008424",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "829610008424",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "829610008424",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "829610008424",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "829610008424",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "829610008424",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670104971",
+    "Material": "829610008424",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "829610008424",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "829610008424",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "829610008424",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "829610008424",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "829610008424",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "829610008424",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "829610008424",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "829610008424",
+    "Inventario": 20
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "829610008424",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "829610008424",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "829610008424",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "829610008424",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "829610008424",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "829610008424",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "829610008424",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "829610008424",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "829610008424",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "829610008424",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "829610008424",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "829610008424",
+    "Inventario": 9
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "829610008424",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "829610008424",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "829610008424",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "7501234560559",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "7501234560559",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "7501234560559",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "7501234560559",
+    "Inventario": 20
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "7501234560559",
+    "Inventario": 19
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "7501234560559",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "7501234560559",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "7501234560559",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "7501234560559",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "7501234560559",
+    "Inventario": 16
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "7501234560559",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "7501234560559",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "7501234560559",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "7501234560559",
+    "Inventario": 9
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "7501234560559",
+    "Inventario": 19
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "7501234560559",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "7501234560559",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "7501234560559",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "7501234560559",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "7501234560559",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "7501234560559",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "7501234560559",
+    "Inventario": 16
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "7501234560559",
+    "Inventario": 24
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "7501234560559",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "7501234560559",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "7501234560559",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "7501234560559",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "7501234560559",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "7501234560559",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "7501234560559",
+    "Inventario": 23
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "7501234560559",
+    "Inventario": 27
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "7501234560559",
+    "Inventario": 184
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "7501234560559",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "7501234560559",
+    "Inventario": 13
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "7501234560559",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "7501234560559",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "7501234560559",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "7501234560559",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "7501234560559",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "7501234560559",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "193575004761",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "193575004761",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "193575004761",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "193575004761",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "7503050941376",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "7503050941376",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "7503050941376",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "7503050941376",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "7503050941376",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "7503050941376",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "7503050941376",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "7503050941376",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "7503050941376",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "7503050941376",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "7503050941376",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "7503050941376",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "7503050941376",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "7503050941376",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "7503050941376",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "7503050941376",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "7503050941376",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "7503044729812",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "7503044729812",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "7503044729812",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "7503044729812",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "7503044729812",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "7503044729812",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "7503044729812",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "7503044729812",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "7503044729812",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "7503044729812",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "7503044729812",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "7503044729812",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "7503044729812",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "7503044729812",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "7503044729812",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "7503044729812",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "7503044729812",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "4548736164772",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "4548736164772",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "4548736164772",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "4548736164772",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "4548736164772",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "4548736164772",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "4548736164772",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "4548736164772",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "4548736164772",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "4548736164772",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "4548736164772",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "4548736164772",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "4548736164772",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "4548736164772",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "4548736164772",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "4548736164772",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "4548736164772",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "4548736164987",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "4548736164987",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "4548736164987",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "4548736164987",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "4548736164987",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "4548736164987",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "4548736164987",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "4548736164987",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "4548736164987",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "4548736164987",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "4548736164987",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "4548736164987",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "4548736164987",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "4548736164987",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "4548736164987",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "4548736164987",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "4548736164987",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "4548736164987",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "4548736164987",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "4548736164987",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "4548736164987",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "4548736164987",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "4548736164987",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "4548736164987",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "4548736164987",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "4548736164987",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "4548736164987",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "4548736164987",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "4548736164987",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "4548736164987",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "4548736164987",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "4548736164987",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "4548736164987",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "4548736164987",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "4548736164987",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "27242931886",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "27242931886",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "27242931886",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "27242931886",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "27242931886",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "27242931886",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "27242931886",
+    "Inventario": 9
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "27242931886",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "27242931886",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "27242931886",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "27242931886",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "4548736165151",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "4548736165151",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "4548736165151",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "4548736165151",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "4548736165151",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "4548736165151",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "4548736165151",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "4548736165151",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "4548736165151",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "4548736165151",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "4548736165151",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "4548736165151",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "4548736165151",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "4548736165151",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "4548736165151",
+    "Inventario": 12
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "4548736165151",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "4548736165151",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "4548736165151",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "4548736165151",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "4548736165151",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "4548736165151",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "4548736165151",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "4548736165151",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "4548736165151",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "4548736165151",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "840414660076",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "840414660076",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "840414660076",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "840414660076",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "840414660076",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900702",
+    "Material": "840414660076",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "840414660076",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "840414660076",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900955",
+    "Material": "840414660076",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900665",
+    "Material": "840414660076",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "840414660076",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "840414660076",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "840414660076",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "840414660076",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "840414660076",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "840414660076",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "840414660076",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "840414660076",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "840414660076",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "840414660076",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "840414660076",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "840414660076",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "840414660076",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670104971",
+    "Material": "840414660076",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900429",
+    "Material": "840414660076",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670901228",
+    "Material": "840414660076",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "840414660076",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "840414660076",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "840414660076",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "840414660076",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "840414660076",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "840414660076",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "840414660076",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "840414660076",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "840414660076",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "840414660076",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670901167",
+    "Material": "840414660076",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "840414660076",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "840414660076",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "840414660076",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "840414660076",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "840414660076",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "102120201005",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "193575007229",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "193575007229",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "653854213029",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "653854213029",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "840080503356",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "840080503356",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "840080503356",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "840080503356",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "840080503356",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900436",
+    "Material": "840080503356",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "840080503356",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "840080558066",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "840080558066",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "840080558066",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900214",
+    "Material": "840080594804",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "840080594804",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "840080594804",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "840080594804",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "840080594804",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "840080594804",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "840080594804",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "840080594804",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "840080594804",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "840080594804",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900191",
+    "Material": "840080594804",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "840080594804",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900658",
+    "Material": "840080594804",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670901235",
+    "Material": "840080594804",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "840080594804",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900207",
+    "Material": "840080594804",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "840080594804",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "840080594804",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "840080594804",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900139",
+    "Material": "840080594804",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "840080594804",
+    "Inventario": 9
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "840080594804",
+    "Inventario": 14
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "5099206063914",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "5099206063914",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "5099206063914",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "6941545630533",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "6941545620930",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "6941545620930",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "6941545620930",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900450",
+    "Material": "840268905323",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "840268905323",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "749460894476",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "749460894476",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "749460894476",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "6941545604862",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "6941545604862",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "6941545604862",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "6941545604862",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900177",
+    "Material": "6941545604862",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "850044396566",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "850044396566",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "850044396566",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "850044396566",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "850044396566",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "850044396528",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "850044396528",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "850044396528",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "850044396528",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "850044396528",
+    "Inventario": 8
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "850044396542",
+    "Inventario": 9
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "850044396542",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "810045688435",
+    "Inventario": 95
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "810045686592",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "810045686592",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "810045686592",
+    "Inventario": 79
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "193022001442",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "6941545631301",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "6941545631301",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900320",
+    "Material": "6941545631301",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900566",
+    "Material": "17817846639",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "17817846639",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "17817846639",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "17817846639",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "17817846639",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "17817846639",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "17817846639",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "7703165014655",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "7703165014655",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "7703165014655",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "193575004778",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "193575004778",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "193575009223",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "193575009223",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "193575009223",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "193575009223",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900801",
+    "Material": "193575009223",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "193575009223",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "193575009223",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900603",
+    "Material": "193575009223",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "840080510798",
+    "Inventario": 4
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "840080510798",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "840080510798",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900108",
+    "Material": "840080510798",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "653854213968",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "653854213968",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "653854213968",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "653854213968",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "840268974282",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "850044396771",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "850044396771",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "850044396597",
+    "Inventario": 11
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "850044396597",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "850044396597",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "850044396597",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "850044396795",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "810045686677",
+    "Inventario": 85
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "810045686677",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "653854213289",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900597",
+    "Material": "653854213289",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "653854213289",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900542",
+    "Material": "653854213289",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "810037291315",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "810037291315",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670548331",
+    "Material": "810037290042",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "810037290042",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900528",
+    "Material": "193575007557",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "193575007557",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670542537",
+    "Material": "193575007557",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900153",
+    "Material": "850044396603",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "850044396603",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "850044396603",
+    "Inventario": 15
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "850044396603",
+    "Inventario": 6
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "850044396603",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "850044396634",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "850044396634",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900115",
+    "Material": "850044396634",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900412",
+    "Material": "850044396818",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "878615091382",
+    "Inventario": 117
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "878615091382",
+    "Inventario": 76
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "878615091382",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "878615091382",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900900",
+    "Material": "4710728126727",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "4710728126727",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "4710728126727",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "4710728126727",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900405",
+    "Material": "840080535814",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "840080535814",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670139034",
+    "Material": "840080535814",
+    "Inventario": 7
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "815820022466",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "850044396511",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "850044396511",
+    "Inventario": 10
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "810015587195",
+    "Inventario": 22
+  },
+  {
+    "Centro Costos": "7703670900306",
+    "Material": "810015587195",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900443",
+    "Material": "810015587195",
+    "Inventario": 5
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "840414684805",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900573",
+    "Material": "7703165014143",
+    "Inventario": 2
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "7703165014143",
+    "Inventario": 3
+  },
+  {
+    "Centro Costos": "7703670900184",
+    "Material": "7703165014143",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900504",
+    "Material": "653854213302",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900580",
+    "Material": "653854213388",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900313",
+    "Material": "653854213401",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "749460894513",
+    "Inventario": 15
+  },
+  {
+    "Centro Costos": "7703670900689",
+    "Material": "17817852470",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "840268963422",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900559",
+    "Material": "840268921804",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670900122",
+    "Material": "850044396573",
+    "Inventario": 1
+  },
+  {
+    "Centro Costos": "7703670529804",
+    "Material": "850044396573",
+    "Inventario": 9
+  }
+]
