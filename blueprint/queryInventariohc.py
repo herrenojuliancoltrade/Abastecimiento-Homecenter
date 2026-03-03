@@ -1,4 +1,3 @@
-# blueprint/queryVentashc.py
 import io
 import os
 import re
@@ -6,32 +5,29 @@ from flask import Blueprint, jsonify, render_template, request, send_file
 import pandas as pd
 from werkzeug.utils import secure_filename
 
-queryVentasHc_bp = Blueprint(
-    'queryVentasHc',
+queryInventarioHc_bp = Blueprint(
+    'queryInventarioHc',
     __name__,
-    url_prefix='/queryVentasHc',
+    url_prefix='/queryInventarioHc',
     template_folder='../templates'
 )
 
 TARGET_COLUMNS = [
-    "EAN Punto de Venta",
-    "GTIN (Código EAN/UPC) del Item",
-    "Cantidad Vendida",
-    "Fecha Inicial de los datos2",
+    "CodBar",
+    "Loc",
+    "CANTIDAD",
 ]
 
 OUTPUT_COLUMNS = [
     "Centro Costos",
     "Material",
-    "Fecha Venta",
-    "Cantidad",
+    "Inventario",
 ]
 
 COLUMN_RENAME_MAP = {
-    "EAN Punto de Venta": "Centro Costos",
-    "GTIN (Código EAN/UPC) del Item": "Material",
-    "Cantidad Vendida": "Cantidad",
-    "Fecha Inicial de los datos2": "Fecha Venta",
+    "CodBar": "Material",
+    "Loc": "Centro Costos",
+    "CANTIDAD": "Inventario",
 }
 
 
@@ -40,7 +36,7 @@ def _normalize_column_name(column_name):
 
 
 def _read_and_filter_excel(file_storage):
-    dataframe = pd.read_excel(file_storage, sheet_name='DATOS')
+    dataframe = pd.read_excel(file_storage, sheet_name='INVENTARIO')
     dataframe.columns = [_normalize_column_name(col) for col in dataframe.columns]
 
     normalized_to_real = {col: col for col in dataframe.columns}
@@ -63,29 +59,16 @@ def _read_and_filter_excel(file_storage):
     filtered.columns = TARGET_COLUMNS
     filtered = filtered.rename(columns=COLUMN_RENAME_MAP)
     filtered = filtered[OUTPUT_COLUMNS]
-    filtered["Fecha Venta"] = pd.to_datetime(filtered["Fecha Venta"], errors='coerce')
-
-    # Mes actual + 6 meses anteriores (ventana de 7 meses en total).
-    now = pd.Timestamp.now()
-    start_month = now.replace(day=1, hour=0, minute=0, second=0, microsecond=0) - pd.DateOffset(months=6)
-    end_month = (now.replace(day=1, hour=0, minute=0, second=0, microsecond=0) + pd.DateOffset(months=1))
-    filtered = filtered[
-        (filtered["Fecha Venta"].notna()) &
-        (filtered["Fecha Venta"] >= start_month) &
-        (filtered["Fecha Venta"] < end_month)
-    ]
-
-    filtered["Fecha Venta"] = filtered["Fecha Venta"].dt.date
     filtered = filtered.dropna(how='all')
     return filtered
 
 
-@queryVentasHc_bp.route('/')
-def queryVentasHc():
-    return render_template('queryVentasHc.html')
+@queryInventarioHc_bp.route('/')
+def query_inventario_hc():
+    return render_template('queryInventarioHc.html')
 
 
-@queryVentasHc_bp.route('/preview', methods=['POST'])
+@queryInventarioHc_bp.route('/preview', methods=['POST'])
 def preview():
     if 'file' not in request.files:
         return jsonify({"error": "Debes adjuntar un archivo Excel."}), 400
@@ -99,7 +82,7 @@ def preview():
     except ValueError as err:
         return jsonify({"error": str(err)}), 400
     except Exception as err:
-        return jsonify({"error": f"No se pudo leer la hoja DATOS. Detalle: {err}"}), 400
+        return jsonify({"error": f"No se pudo leer la hoja INVENTARIO. Detalle: {err}"}), 400
 
     preview_rows = (
         filtered.head(20)
@@ -114,7 +97,7 @@ def preview():
     })
 
 
-@queryVentasHc_bp.route('/procesar', methods=['POST'])
+@queryInventarioHc_bp.route('/procesar', methods=['POST'])
 def procesar():
     if 'file' not in request.files:
         return jsonify({"error": "Debes adjuntar un archivo Excel."}), 400
@@ -133,14 +116,14 @@ def procesar():
     except ValueError as err:
         return jsonify({"error": str(err)}), 400
     except Exception as err:
-        return jsonify({"error": f"No se pudo leer la hoja DATOS. Detalle: {err}"}), 400
+        return jsonify({"error": f"No se pudo leer la hoja INVENTARIO. Detalle: {err}"}), 400
 
     output = io.BytesIO()
     with pd.ExcelWriter(output, engine='xlsxwriter') as writer:
-        filtered.to_excel(writer, index=False, sheet_name='DATOS_FILTRADOS')
+        filtered.to_excel(writer, index=False, sheet_name='INVENTARIO_FILTRADO')
     output.seek(0)
 
-    output_filename = f"{os.path.splitext(filename)[0]}_filtrado.xlsx"
+    output_filename = f"{os.path.splitext(filename)[0]}_inventario_filtrado.xlsx"
     return send_file(
         output,
         as_attachment=True,

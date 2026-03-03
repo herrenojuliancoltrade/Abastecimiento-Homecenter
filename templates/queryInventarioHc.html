@@ -1,22 +1,20 @@
 {% extends "navbar.html" %}
 
-{% block title %}Query Ventas HC{% endblock %}
+{% block title %}Query Inventario HC{% endblock %}
 
 {% block extra_css %}
-<link rel="stylesheet" href="{{ url_for('static', filename='css/queryVentasHc.css') }}">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/queryInventarioHc.css') }}">
 {% endblock %}
 
 {% block content %}
-<section class="ventas-hc-wrapper">
-    <div class="ventas-hc-card">
-        <h1>Filtro de Ventas HC</h1>
-        <p class="ventas-hc-description">
-            Carga un archivo Excel, toma la hoja <strong>DATOS</strong>, filtra las ventas del mes actual y de los 6 meses anteriores,
-            y deja estas columnas en este orden:
+<section class="inventario-hc-wrapper">
+    <div class="inventario-hc-card">
+        <h1>Filtro de Inventario HC</h1>
+        <p class="inventario-hc-description">
+            Carga un archivo Excel, toma la hoja <strong>INVENTARIO</strong> y exporta las columnas:
             <code>Centro Costos</code>,
             <code>Material</code>,
-            <code>Fecha Venta</code> y
-            <code>Cantidad</code>.
+            <code>Inventario</code>.
         </p>
 
         <div class="upload-row">
@@ -43,10 +41,10 @@
 
 {% block extra_js %}
 <script>
-    window.queryVentasHcConfig = {
-        previewUrl: "{{ url_for('queryVentasHc.preview') }}",
-        processUrl: "{{ url_for('queryVentasHc.procesar') }}"
+    window.queryInventarioHcConfig = {
+        previewUrl: "{{ url_for('queryInventarioHc.preview') }}",
+        processUrl: "{{ url_for('queryInventarioHc.procesar') }}"
     };
 </script>
-<script src="{{ url_for('static', filename='js/queryVentasHc.js') }}"></script>
+<script src="{{ url_for('static', filename='js/queryInventarioHc.js') }}"></script>
 {% endblock %}

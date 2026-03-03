@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const tableHead = document.querySelector('#preview-table thead');
   const tableBody = document.querySelector('#preview-table tbody');
 
-  const config = window.queryVentasHcConfig || {};
+  const config = window.queryInventarioHcConfig || {};
   const previewUrl = config.previewUrl;
   const processUrl = config.processUrl;
 
@@ -104,7 +104,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       const blob = await response.blob();
       const contentDisposition = response.headers.get('Content-Disposition') || '';
-      let filename = 'ventas_hc_filtrado.xlsx';
+      let filename = 'inventario_hc_filtrado.xlsx';
 
       const filenameMatch = contentDisposition.match(/filename="?([^"]+)"?/i);
       if (filenameMatch && filenameMatch[1]) {

@@ -1,10 +1,10 @@
-.ventas-hc-wrapper {
+.inventario-hc-wrapper {
   max-width: 1100px;
   margin: 24px auto;
   padding: 0 16px;
 }
 
-.ventas-hc-card {
+.inventario-hc-card {
   background: #ffffff;
   border: 1px solid #d7dce2;
   border-radius: 12px;
@@ -12,13 +12,13 @@
   box-shadow: 0 4px 14px rgba(15, 35, 60, 0.08);
 }
 
-.ventas-hc-card h1 {
+.inventario-hc-card h1 {
   margin: 0 0 10px;
   font-size: 28px;
   color: #12354b;
 }
 
-.ventas-hc-description {
+.inventario-hc-description {
   margin: 0 0 18px;
   line-height: 1.5;
   color: #334155;
