@@ -7,11 +7,22 @@ from urllib.error import HTTPError, URLError
 
 
 def send_email(to_email, subject, body):
-    provider = os.getenv('MAIL_PROVIDER', 'smtp').strip().lower()
+    provider = os.getenv('MAIL_PROVIDER', 'auto').strip().lower()
+    if provider == 'auto':
+        provider = 'resend' if _is_render_environment() else 'smtp'
+
     if provider == 'resend':
         _send_with_resend(to_email, subject, body)
         return
     _send_with_smtp(to_email, subject, body)
+
+
+def _is_render_environment():
+    # Render expone estas variables en runtime.
+    return any(
+        os.getenv(var, '').strip()
+        for var in ('RENDER', 'RENDER_SERVICE_ID', 'RENDER_EXTERNAL_HOSTNAME')
+    )
 
 
 def _send_with_smtp(to_email, subject, body):
@@ -48,9 +59,9 @@ def _send_with_smtp(to_email, subject, body):
 
 def _send_with_resend(to_email, subject, body):
     api_key = os.getenv('RESEND_API_KEY', '').strip()
-    from_email = os.getenv('SMTP_FROM', os.getenv('MAIL_FROM', '')).strip()
+    from_email = os.getenv('RESEND_FROM', os.getenv('MAIL_FROM', os.getenv('SMTP_FROM', ''))).strip()
     if not api_key or not from_email:
-        raise RuntimeError('Configura RESEND_API_KEY y SMTP_FROM (o MAIL_FROM) para usar Resend.')
+        raise RuntimeError('Configura RESEND_API_KEY y RESEND_FROM (o MAIL_FROM) para usar Resend.')
 
     payload = {
         'from': from_email,
