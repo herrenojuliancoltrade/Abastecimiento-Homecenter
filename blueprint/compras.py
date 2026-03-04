@@ -3,14 +3,13 @@ import json
 import re
 import os
 import tempfile
-import smtplib
 from pathlib import Path
 from threading import Lock
 from io import BytesIO
-from email.mime.text import MIMEText
 
 import pandas as pd
 from flask import Blueprint, render_template, jsonify, request, send_file
+from blueprint.email_service import send_email
 
 # Intentar usar portalocker si está instalado para bloqueo entre procesos (opcional)
 try:
@@ -153,26 +152,7 @@ def write_compras(list_products):
 
 
 def _send_email_notification(to_email, subject, message):
-    smtp_host = os.getenv('SMTP_HOST', '').strip()
-    smtp_port = int(os.getenv('SMTP_PORT', '587'))
-    smtp_user = os.getenv('SMTP_USER', '').strip()
-    smtp_password = os.getenv('SMTP_PASS', '').strip()
-    from_email = os.getenv('SMTP_FROM', smtp_user).strip()
-    use_tls = os.getenv('SMTP_USE_TLS', 'true').strip().lower() in ('1', 'true', 'yes', 'y')
-
-    if not smtp_host or not smtp_user or not smtp_password or not from_email:
-        raise RuntimeError('Configura SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASS y SMTP_FROM en .env')
-
-    msg = MIMEText(message, 'plain', 'utf-8')
-    msg['Subject'] = subject
-    msg['From'] = from_email
-    msg['To'] = to_email
-
-    with smtplib.SMTP(smtp_host, smtp_port, timeout=20) as server:
-        if use_tls:
-            server.starttls()
-        server.login(smtp_user, smtp_password)
-        server.sendmail(from_email, [to_email], msg.as_string())
+    send_email(to_email, subject, message)
 
 # ---------- Rutas ----------
 @compras_bp.route('/')

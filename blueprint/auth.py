@@ -1,10 +1,8 @@
 # blueprint/auth.py
 import os
 import json
-import smtplib
 import random
 from datetime import datetime, timedelta, timezone
-from email.mime.text import MIMEText
 
 from flask import Blueprint, request, jsonify, current_app
 from flask_jwt_extended import (
@@ -14,6 +12,7 @@ from flask_jwt_extended import (
 )
 from werkzeug.security import check_password_hash, generate_password_hash
 
+from blueprint.email_service import send_email
 
 auth_bp = Blueprint('auth', __name__, url_prefix='/api')
 
@@ -64,16 +63,6 @@ def _find_user(users, user_input):
 
 
 def _send_reset_code_email(to_email, username, code):
-    smtp_host = os.getenv('SMTP_HOST', '').strip()
-    smtp_port = int(os.getenv('SMTP_PORT', '587'))
-    smtp_user = os.getenv('SMTP_USER', '').strip()
-    smtp_password = os.getenv('SMTP_PASS', '').strip()
-    from_email = os.getenv('SMTP_FROM', smtp_user).strip()
-    use_tls = os.getenv('SMTP_USE_TLS', 'true').strip().lower() in ('1', 'true', 'yes', 'y')
-
-    if not smtp_host or not smtp_user or not smtp_password or not from_email:
-        raise RuntimeError('Configura SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASS y SMTP_FROM en .env')
-
     subject = 'Codigo para recuperar contrasena'
     body = (
         f"Hola {username or 'usuario'},\n\n"
@@ -81,17 +70,7 @@ def _send_reset_code_email(to_email, username, code):
         'Este codigo expira en 10 minutos.\n'
         'Si no solicitaste este cambio, ignora este correo.'
     )
-
-    msg = MIMEText(body, 'plain', 'utf-8')
-    msg['Subject'] = subject
-    msg['From'] = from_email
-    msg['To'] = to_email
-
-    with smtplib.SMTP(smtp_host, smtp_port, timeout=20) as server:
-        if use_tls:
-            server.starttls()
-        server.login(smtp_user, smtp_password)
-        server.sendmail(from_email, [to_email], msg.as_string())
+    send_email(to_email, subject, body)
 
 
 @auth_bp.route('/login', methods=['POST'])
