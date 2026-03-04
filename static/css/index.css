@@ -307,6 +307,51 @@ input:focus + .input-icon {
   border: 1px solid rgba(0, 184, 148, 0.3);
 }
 
+.forgot-wrap {
+  margin-top: 14px;
+  text-align: center;
+}
+
+.forgot-link {
+  background: transparent;
+  border: 0;
+  color: var(--info);
+  font-weight: 500;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.forgot-form {
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px solid var(--dark-border);
+}
+
+.secondary-btn {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid var(--dark-border);
+  border-radius: var(--border-radius-small);
+  background: var(--dark-card-hover);
+  color: var(--dark-text);
+  font-weight: 600;
+  margin-bottom: 12px;
+  cursor: pointer;
+}
+
+.secondary-btn:hover {
+  border-color: var(--primary);
+}
+
+.secondary-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.hidden {
+  display: none;
+}
+
 /* Modal de bienvenida */
 .modal {
   display: none;

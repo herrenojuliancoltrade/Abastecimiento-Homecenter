@@ -3,9 +3,11 @@ import json
 import re
 import os
 import tempfile
+import smtplib
 from pathlib import Path
 from threading import Lock
 from io import BytesIO
+from email.mime.text import MIMEText
 
 import pandas as pd
 from flask import Blueprint, render_template, jsonify, request, send_file
@@ -148,6 +150,29 @@ def write_compras(list_products):
                 os.remove(tmp_path)
             except Exception:
                 pass
+
+
+def _send_email_notification(to_email, subject, message):
+    smtp_host = os.getenv('SMTP_HOST', '').strip()
+    smtp_port = int(os.getenv('SMTP_PORT', '587'))
+    smtp_user = os.getenv('SMTP_USER', '').strip()
+    smtp_password = os.getenv('SMTP_PASS', '').strip()
+    from_email = os.getenv('SMTP_FROM', smtp_user).strip()
+    use_tls = os.getenv('SMTP_USE_TLS', 'true').strip().lower() in ('1', 'true', 'yes', 'y')
+
+    if not smtp_host or not smtp_user or not smtp_password or not from_email:
+        raise RuntimeError('Configura SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASS y SMTP_FROM en .env')
+
+    msg = MIMEText(message, 'plain', 'utf-8')
+    msg['Subject'] = subject
+    msg['From'] = from_email
+    msg['To'] = to_email
+
+    with smtplib.SMTP(smtp_host, smtp_port, timeout=20) as server:
+        if use_tls:
+            server.starttls()
+        server.login(smtp_user, smtp_password)
+        server.sendmail(from_email, [to_email], msg.as_string())
 
 # ---------- Rutas ----------
 @compras_bp.route('/')
@@ -433,3 +458,41 @@ def api_update_item():
         return jsonify({"ok": True, "updated": mat}), 200
     except Exception as e:
         return jsonify({"error": "Error al actualizar", "detail": str(e)}), 500
+
+
+@compras_bp.route('/api/confirmacion_compras', methods=['POST'])
+def api_confirmacion_compras():
+    to_email = os.getenv('COMPRAS_CONFIRMACION_TO', '').strip()
+    subject = os.getenv('COMPRAS_CONFIRMACION_SUBJECT', 'Confirmacion Compras').strip()
+    message = os.getenv(
+        'COMPRAS_CONFIRMACION_MSG',
+        'Hemos revisado tu solicitud, por favor ingresar a la plataforma y validar'
+    ).strip()
+
+    if not to_email or not message:
+        return jsonify({"error": "Faltan COMPRAS_CONFIRMACION_TO o COMPRAS_CONFIRMACION_MSG en .env"}), 500
+
+    try:
+        _send_email_notification(to_email, subject, message)
+        return jsonify({"ok": True, "msg": f"Correo enviado a {to_email}"}), 200
+    except Exception as e:
+        return jsonify({"error": "No se pudo enviar confirmacion compras", "detail": str(e)}), 500
+
+
+@compras_bp.route('/api/confirmacion_trade', methods=['POST'])
+def api_confirmacion_trade():
+    to_email = os.getenv('TRADE_CONFIRMACION_TO', '').strip()
+    subject = os.getenv('TRADE_CONFIRMACION_SUBJECT', 'Confirmacion Trade').strip()
+    message = os.getenv(
+        'TRADE_CONFIRMACION_MSG',
+        'Hemos realizado una solicitud de producto, por favor validar'
+    ).strip()
+
+    if not to_email or not message:
+        return jsonify({"error": "Faltan TRADE_CONFIRMACION_TO o TRADE_CONFIRMACION_MSG en .env"}), 500
+
+    try:
+        _send_email_notification(to_email, subject, message)
+        return jsonify({"ok": True, "msg": f"Correo enviado a {to_email}"}), 200
+    except Exception as e:
+        return jsonify({"error": "No se pudo enviar confirmacion trade", "detail": str(e)}), 500

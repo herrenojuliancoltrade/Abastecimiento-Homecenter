@@ -1,12 +1,37 @@
 [
   {
-    "email": "lorenacalderon@gmail.com",
-    "username": "lorecalderon",
-    "name": "Lorena Calderon",
-    "password": "1",
-    "id_rol": "1", 
+    "email": "correadaniel@coltrade.com.co",
+    "username": "danielcorrea",
+    "name": "Daniel Correa",
+    "id_rol": "1",
     "rol": "administrador",
     "id_area": "1",
-    "area": "retail"  
+    "area": "retail",
+    "password_hash": "scrypt:32768:8:1$TXaaueNBM9vIaAz9$2c788789a50460b79bdcbc8f2f125d6038a102aefe28a43a47f0dafb1201d13ca39205afacc2d7a853da7566c76b37d5719f42da1bce1c65d1c8e2aae5b091cf",
+    "theme": "dark"
+  },
+  {
+    "email": "palaciosjulian286@gmail.com",
+    "username": "jherreno5",
+    "name": "Julian",
+    "last_name": "Palacios",
+    "id_rol": "1",
+    "rol": "administrador",
+    "id_area": "",
+    "area": "",
+    "password_hash": "scrypt:32768:8:1$ySF5pWgQFkJr7KE4$37663d978eb9d4f7c465a769d42d02bdd233a9acead0caf44e4fd47e85a45cb242b93a2b6f2b0962583615b1de05c63769e011d4d8f38d541da8259684cb496e",
+    "theme": "dark"
+  },
+  {
+    "email": "calderonlorena@coltrade.com.co",
+    "username": "lorenacalderon",
+    "name": "Lorena",
+    "last_name": "Calderon",
+    "id_rol": "2",
+    "rol": "usuario",
+    "id_area": "",
+    "area": "",
+    "theme": "dark",
+    "password_hash": "scrypt:32768:8:1$PldKxBCdeyZH9Zca$2034a6e339c2829fc43b269c28db80c2df0d7639e4cd47b7d556fc32593f3a52ae1b5359f554881ca2a042897cd36c32ee99d42c069ce4092c9f2a74e6761b6f"
   }
 ]

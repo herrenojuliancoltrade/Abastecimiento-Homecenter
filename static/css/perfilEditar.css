@@ -1,0 +1,148 @@
+.perfil-wrapper {
+  max-width: 820px;
+  margin: 24px auto;
+  padding: 0 16px;
+}
+
+.perfil-card {
+  background: #ffffff;
+  border: 1px solid #d7dce2;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 14px rgba(15, 35, 60, 0.08);
+}
+
+.perfil-card h1 {
+  margin: 0 0 8px;
+  color: #12354b;
+  font-size: 30px;
+}
+
+.perfil-subtitle {
+  margin: 0 0 14px;
+  color: #475569;
+}
+
+.perfil-top-actions {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 6px;
+}
+
+.perfil-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 14px;
+  margin-top: 10px;
+}
+
+.perfil-action-card {
+  display: block;
+  border: 1px solid #d6deea;
+  border-radius: 12px;
+  padding: 16px;
+  text-decoration: none;
+  background: #f9fbff;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.perfil-action-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(15, 35, 60, 0.1);
+  border-color: #9cb8d9;
+}
+
+.card-title {
+  color: #0f2f48;
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.card-text {
+  color: #40576d;
+  font-size: 14px;
+}
+
+.msg {
+  min-height: 22px;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+.msg.info {
+  color: #175ea8;
+}
+
+.msg.success {
+  color: #0f7a36;
+}
+
+.msg.error {
+  color: #b42318;
+}
+
+.form-block {
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 14px;
+  margin-top: 12px;
+  display: grid;
+  gap: 8px;
+}
+
+.form-block h2 {
+  margin: 0 0 2px;
+  font-size: 20px;
+  color: #1e293b;
+}
+
+.form-block label {
+  font-weight: 600;
+  color: #334155;
+}
+
+.form-block input {
+  border: 1px solid #c8d2dd;
+  border-radius: 8px;
+  padding: 10px;
+  background: #f8fafc;
+}
+
+.form-block select {
+  border: 1px solid #c8d2dd;
+  border-radius: 8px;
+  padding: 10px;
+  background: #f8fafc;
+}
+
+.form-block input:disabled {
+  background: #eef2f7;
+  color: #64748b;
+}
+
+.btn {
+  border: 0;
+  border-radius: 8px;
+  padding: 10px 14px;
+  font-weight: 600;
+  cursor: pointer;
+  width: fit-content;
+  margin-top: 6px;
+}
+
+.btn-primary {
+  background: #0b6bcb;
+  color: #fff;
+}
+
+.btn-secondary {
+  background: #1f2937;
+  color: #fff;
+}
+
+.btn-light {
+  background: #e7eef6;
+  color: #223243;
+  text-decoration: none;
+}

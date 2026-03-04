@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const loginBtn = document.querySelector('.login-btn');
   const welcomeModal = document.getElementById('welcomeModal');
 
-  // Alternar visibilidad de contraseña
+  // Alternar visibilidad de contraseÃ±a
   togglePassword.addEventListener('click', () => {
     const type = passwordInput.getAttribute('type') === 'password' ? 'text' : 'password';
     passwordInput.setAttribute('type', type);
@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const user = document.getElementById('user').value.trim();
     const password = document.getElementById('password').value;
 
-    // Validación básica
+    // ValidaciÃ³n bÃ¡sica
     if (!user || !password) {
       showMessage('Por favor, completa todos los campos', 'error');
       return;
@@ -49,34 +49,40 @@ document.addEventListener('DOMContentLoaded', () => {
       const data = await res.json();
       
       if (res.ok) {
-        // Mostrar mensaje de éxito
-        showMessage('Inicio de sesión exitoso', 'success');
+        const userTheme = (data.user && data.user.theme) ? data.user.theme : 'light';
+        if (window.applyTheme) {
+          window.applyTheme(userTheme);
+        } else {
+          localStorage.setItem('theme', userTheme);
+        }
+        // Mostrar mensaje de Ã©xito
+        showMessage('Inicio de sesiÃ³n exitoso', 'success');
         
         // Mostrar modal de bienvenida
         showWelcomeModal();
         
-        // Redirigir después de 3 segundos (mismo tiempo que la animación de la barra)
+        // Redirigir despuÃ©s de 3 segundos (mismo tiempo que la animaciÃ³n de la barra)
         setTimeout(() => {
           window.location = '/apps_operaciones/';
         }, 3000);
       } else {
-        showMessage(data.msg || 'Error en el inicio de sesión', 'error');
+        showMessage(data.msg || 'Error en el inicio de sesiÃ³n', 'error');
       }
     } catch (err) {
       console.error(err);
-      showMessage('Error de conexión. Inténtalo de nuevo.', 'error');
+      showMessage('Error de conexiÃ³n. IntÃ©ntalo de nuevo.', 'error');
     } finally {
       // Quitar estado de carga
       loginBtn.classList.remove('loading');
     }
   });
 
-  // Función para mostrar mensajes
+  // FunciÃ³n para mostrar mensajes
   function showMessage(text, type) {
     msg.textContent = text;
     msg.className = `msg ${type}`;
     
-    // Auto-ocultar mensajes de éxito después de 5 segundos
+    // Auto-ocultar mensajes de Ã©xito despuÃ©s de 5 segundos
     if (type === 'success') {
       setTimeout(() => {
         msg.textContent = '';
@@ -85,11 +91,11 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
 
-  // Función para mostrar el modal de bienvenida
+  // FunciÃ³n para mostrar el modal de bienvenida
   function showWelcomeModal() {
     welcomeModal.classList.add('show');
     
-    // Reiniciar la animación de la barra de progreso
+    // Reiniciar la animaciÃ³n de la barra de progreso
     const progressBar = document.querySelector('.loader-progress');
     progressBar.style.animation = 'none';
     setTimeout(() => {

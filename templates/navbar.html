@@ -3,9 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem('theme') || 'light';
+          document.documentElement.setAttribute('data-theme', t === 'dark' ? 'dark' : 'light');
+        } catch (e) {
+          document.documentElement.setAttribute('data-theme', 'light');
+        }
+      })();
+    </script>
     <title>{% block title %}{% endblock %}</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="/static/css/navbar.css">
+    <link rel="stylesheet" href="/static/css/theme.css">
     {% block extra_css %}{% endblock %}
 </head>
 <body>
@@ -15,7 +26,7 @@
                 <i class="fas fa-rocket brand-icon"></i>
                 <span class="brand-text">Operaciones</span>
             </a>
-            <div id="mobile-menu" class="navbar-toggle" aria-label="Abrir menú">
+            <div id="mobile-menu" class="navbar-toggle" aria-label="Abrir menu">
                 <span class="toggle-bar"></span>
                 <span class="toggle-bar"></span>
                 <span class="toggle-bar"></span>
@@ -53,28 +64,28 @@
     </li>
 
     <li class="dropdown-item">
-      <a href="/ventasclaro/" class="dropdown-link" target="_blank" rel="noopener noreferrer">
+      <a href="/ventasclaro/" class="dropdown-link">
         <i class="fas fa-chart-line dropdown-icon"></i>
         <span>Ventas</span>
       </a>
     </li>
 
     <li class="dropdown-item">
-      <a href="/inventario/" class="dropdown-link" target="_blank" rel="noopener noreferrer">
+      <a href="/inventario/" class="dropdown-link">
         <i class="fas fa-warehouse dropdown-icon"></i>
         <span>Inventario</span>
       </a>
     </li>
 
     <li class="dropdown-item">
-      <a href="/transitos/" class="dropdown-link" target="_blank" rel="noopener noreferrer">
+      <a href="/transitos/" class="dropdown-link">
         <i class="fas fa-truck dropdown-icon"></i>
         <span>Transitos</span>
       </a>
     </li>
 
     <li class="dropdown-item">
-      <a href="/metas/" class="dropdown-link" target="_blank" rel="noopener noreferrer">
+      <a href="/metas/" class="dropdown-link">
         <i class="fas fa-bullseye dropdown-icon"></i>
         <span>Metas</span>
       </a>
@@ -95,7 +106,7 @@
 
   <ul class="dropdown-menu">
     <li class="dropdown-item">
-      <a href="/forecast/" class="dropdown-link track-link" target="_blank" rel="noopener noreferrer">
+      <a href="/forecast/" class="dropdown-link track-link">
         <i class="fas fa-link dropdown-icon"></i>
         <span>Forecast</span>
       </a>
@@ -103,31 +114,31 @@
   </ul>
     <ul class="dropdown-menu">
     <li class="dropdown-item">
-      <a href="/compras/" class="dropdown-link track-link" target="_blank" rel="noopener noreferrer">
+      <a href="/compras/" class="dropdown-link track-link">
         <i class="fas fa-link dropdown-icon"></i>
         <span>Compras</span>
       </a>
     </li>
       <li class="dropdown-item">
-      <a href="/forecast/" class="dropdown-link track-link" target="_blank" rel="noopener noreferrer">
+      <a href="/forecast/" class="dropdown-link track-link">
         <i class="fas fa-link dropdown-icon"></i>
         <span>Forecast</span>
       </a>
     </li>
     <li class="dropdown-item">
-      <a href="/unir/" class="dropdown-link track-link" target="_blank" rel="noopener noreferrer">
+      <a href="/unir/" class="dropdown-link track-link">
         <i class="fas fa-link dropdown-icon"></i>
         <span>Unir</span>
       </a>
     </li>
     <li class="dropdown-item">
-      <a href="/queryVentasHc/" class="dropdown-link track-link" target="_blank" rel="noopener noreferrer">
+      <a href="/queryVentasHc/" class="dropdown-link track-link">
         <i class="fas fa-link dropdown-icon"></i>
         <span>Query Hc</span>
       </a>
     </li>
     <li class="dropdown-item">
-      <a href="/queryInventarioHc/" class="dropdown-link track-link" target="_blank" rel="noopener noreferrer">
+      <a href="/queryInventarioHc/" class="dropdown-link track-link">
         <i class="fas fa-link dropdown-icon"></i>
         <span>Query Inventario</span>
       </a>
@@ -139,12 +150,18 @@
 
 
 
-                <!-- Accesos Rápidos -->
+                <!-- Accesos Rapidos -->
                 <li class="nav-item">
-                    <!-- uso de button para evitar navegación; estilo igual que .nav-link -->
-                    <button id="logout-btn" class="nav-link btn-logout" type="button" aria-label="Cerrar sesión">
+                    <a href="/perfilEditar/" class="nav-link">
+                        <i class="fas fa-user-cog nav-icon"></i>
+                        <span class="nav-text">Perfil</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <!-- uso de button para evitar navegacion; estilo igual que .nav-link -->
+                    <button id="logout-btn" class="nav-link btn-logout" type="button" aria-label="Cerrar sesion">
                         <i class="fas fa-sign-out-alt nav-icon"></i>
-                        <span class="nav-text">Cerrar sesión</span>
+                        <span class="nav-text">Cerrar sesion</span>
                     </button>
                 </li>
             </ul>
@@ -155,6 +172,7 @@
         {% block content %}{% endblock %}
     </div>
 
+    <script src="/static/js/theme.js"></script>
     <script src="/static/js/navbar.js"></script>
     {% block extra_js %}{% endblock %}
 </body>

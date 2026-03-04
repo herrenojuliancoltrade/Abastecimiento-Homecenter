@@ -7,12 +7,16 @@ document.addEventListener('DOMContentLoaded', function () {
   const searchInput = document.getElementById('search-input');
   const importForm = document.getElementById('import-form');
   const fileInput = document.getElementById('file-input');
+  const btnConfirmacionCompras = document.getElementById('btn-confirmacion-compras');
+  const btnConfirmacionTrade = document.getElementById('btn-confirmacion-trade');
 
   // rutas relativas
   const API_LIST = 'api/compras';
   const API_IMPORT = 'api/import';
   const API_EXPORT_XLSX = 'api/export_excel';
   const API_UPDATE = 'api/update';
+  const API_CONFIRMACION_COMPRAS = 'api/confirmacion_compras';
+  const API_CONFIRMACION_TRADE = 'api/confirmacion_trade';
 
   let lastData = [];
 
@@ -197,6 +201,38 @@ document.addEventListener('DOMContentLoaded', function () {
     } catch (err) {
       console.error(err);
       setStatus('Error exportando Excel: ' + (err.message || err));
+    }
+  });
+
+  btnConfirmacionCompras.addEventListener('click', async () => {
+    btnConfirmacionCompras.disabled = true;
+    setStatus('Enviando confirmacion compras...');
+    try {
+      const res = await fetch(API_CONFIRMACION_COMPRAS, { method: 'POST' });
+      const data = await res.json().catch(() => ({}));
+      if (!res.ok) throw new Error(data.error || data.detail || 'Error enviando correo');
+      setStatus(data.msg || 'Confirmacion Compras enviada');
+    } catch (err) {
+      console.error(err);
+      setStatus('Error en confirmacion compras: ' + (err.message || err));
+    } finally {
+      btnConfirmacionCompras.disabled = false;
+    }
+  });
+
+  btnConfirmacionTrade.addEventListener('click', async () => {
+    btnConfirmacionTrade.disabled = true;
+    setStatus('Enviando confirmacion trade...');
+    try {
+      const res = await fetch(API_CONFIRMACION_TRADE, { method: 'POST' });
+      const data = await res.json().catch(() => ({}));
+      if (!res.ok) throw new Error(data.error || data.detail || 'Error enviando correo');
+      setStatus(data.msg || 'Confirmacion Trade enviada');
+    } catch (err) {
+      console.error(err);
+      setStatus('Error en confirmacion trade: ' + (err.message || err));
+    } finally {
+      btnConfirmacionTrade.disabled = false;
     }
   });
 

@@ -1,0 +1,33 @@
+{% extends "navbar.html" %}
+
+{% block title %}Perfil{% endblock %}
+
+{% block extra_css %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/perfilEditar.css') }}">
+{% endblock %}
+
+{% block content %}
+<section class="perfil-wrapper">
+  <div class="perfil-card">
+    <h1>Perfil</h1>
+    <p class="perfil-subtitle">Selecciona la accion que deseas realizar.</p>
+
+    <div class="perfil-cards">
+      <a class="perfil-action-card" href="{{ url_for('perfilEditar.perfil_informacion_view') }}">
+        <div class="card-title">Modificar informacion personal</div>
+        <div class="card-text">Actualiza nombre, apellido y contrasena.</div>
+      </a>
+
+      <a class="perfil-action-card" href="{{ url_for('perfilEditar.crear_usuario_view') }}">
+        <div class="card-title">Crear usuario</div>
+        <div class="card-text">Disponible solo para usuarios con rol administrador.</div>
+      </a>
+
+      <a class="perfil-action-card" href="{{ url_for('perfilEditar.estilo_view') }}">
+        <div class="card-title">Estilo</div>
+        <div class="card-text">Elige si deseas usar tema light o dark.</div>
+      </a>
+    </div>
+  </div>
+</section>
+{% endblock %}

@@ -1,0 +1,203 @@
+html[data-theme="light"] {
+  --app-bg: #f5f7fb;
+  --app-card: #ffffff;
+  --app-text: #1f2937;
+  --app-border: #d9e1ea;
+  --app-nav-bg: #ffffff;
+  --app-nav-text: #4b5563;
+  --app-hover: #e8f1ff;
+  --dark-bg: #f2f5fa;
+  --dark-card: #ffffff;
+  --dark-card-hover: #eef3fb;
+  --dark-border: #d1dae8;
+  --dark-text: #1f2937;
+  --dark-text-secondary: #667085;
+  --primary-color: #0a66c2;
+  --text-color: #1f2937;
+  --text-light: #4b5563;
+  --border-color: #d1dae8;
+  --secondary-color: #f8f9fa;
+  --active-color: #0a66c2;
+}
+
+html[data-theme="dark"] {
+  --app-bg: #111827;
+  --app-card: #1f2937;
+  --app-text: #e5e7eb;
+  --app-border: #374151;
+  --app-nav-bg: #0b1220;
+  --app-nav-text: #d1d5db;
+  --app-hover: #1f3350;
+  --dark-bg: #1a1d23;
+  --dark-card: #252a32;
+  --dark-card-hover: #2d333d;
+  --dark-border: #3a414d;
+  --dark-text: #e4e6eb;
+  --dark-text-secondary: #b0b3b8;
+  --primary-color: #60a5fa;
+  --text-color: #e5e7eb;
+  --text-light: #d1d5db;
+  --border-color: #374151;
+  --secondary-color: #1f2937;
+  --active-color: #93c5fd;
+}
+
+html[data-theme] body {
+  background-color: var(--app-bg) !important;
+  color: var(--app-text) !important;
+}
+
+html[data-theme] .main-content {
+  color: var(--app-text) !important;
+}
+
+html[data-theme] .navbar {
+  background-color: var(--app-nav-bg) !important;
+}
+
+html[data-theme] .nav-link,
+html[data-theme] .btn-logout,
+html[data-theme] .dropdown-link {
+  color: var(--app-nav-text) !important;
+}
+
+html[data-theme] .nav-link:hover,
+html[data-theme] .dropdown-link:hover,
+html[data-theme] .btn-logout:hover {
+  background-color: var(--app-hover) !important;
+}
+
+html[data-theme] .dropdown-menu,
+html[data-theme] .navbar-menu {
+  background-color: var(--app-nav-bg) !important;
+  border-color: var(--app-border) !important;
+}
+
+html[data-theme] .perfil-card,
+html[data-theme] .ventas-hc-card,
+html[data-theme] .inventario-hc-card,
+html[data-theme] .recover-container,
+html[data-theme] .login-container,
+html[data-theme] .form-block,
+html[data-theme] .container,
+html[data-theme] .panel,
+html[data-theme] .table-section,
+html[data-theme] [class*="card"],
+html[data-theme] [class*="panel"],
+html[data-theme] [class*="container"]:not(.navbar-container) {
+  background: var(--app-card) !important;
+  color: var(--app-text) !important;
+  border-color: var(--app-border) !important;
+}
+
+html[data-theme] input,
+html[data-theme] select,
+html[data-theme] textarea,
+html[data-theme] table,
+html[data-theme] th,
+html[data-theme] td {
+  color: var(--app-text) !important;
+  border-color: var(--app-border) !important;
+}
+
+html[data-theme] table {
+  background-color: transparent !important;
+}
+
+html[data-theme] input,
+html[data-theme] select,
+html[data-theme] textarea {
+  background-color: var(--app-card) !important;
+}
+
+html[data-theme] button,
+html[data-theme] .btn,
+html[data-theme] .ghost,
+html[data-theme] .pill {
+  border-color: var(--app-border) !important;
+}
+
+html[data-theme] .table-wrap,
+html[data-theme] .table-section {
+  border-color: var(--app-border) !important;
+}
+
+html[data-theme] thead th,
+html[data-theme] .compras-table thead th,
+html[data-theme] .table-section th {
+  border-bottom-color: var(--app-border) !important;
+}
+
+html[data-theme] tbody td,
+html[data-theme] .compras-table tbody td,
+html[data-theme] .table-section td {
+  border-bottom-color: var(--app-border) !important;
+}
+
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3,
+html[data-theme="dark"] label,
+html[data-theme="dark"] p,
+html[data-theme="dark"] span,
+html[data-theme="dark"] small,
+html[data-theme="dark"] .muted,
+html[data-theme="dark"] .note {
+  color: var(--app-text) !important;
+}
+
+html[data-theme="dark"] .table-section tr:hover,
+html[data-theme="dark"] tr:hover {
+  background-color: rgba(255, 255, 255, 0.03) !important;
+}
+
+html[data-theme="dark"] thead th,
+html[data-theme="dark"] .compras-table thead th,
+html[data-theme="dark"] .table-section th {
+  background-color: #22324a !important;
+  color: #e5e7eb !important;
+}
+
+html[data-theme="dark"] tbody tr:nth-child(even),
+html[data-theme="dark"] .compras-table tbody tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.02) !important;
+}
+
+html[data-theme="dark"] input[type="file"] {
+  background-color: #1b2638 !important;
+  color: #e5e7eb !important;
+}
+
+html[data-theme="dark"] .status,
+html[data-theme="dark"] .message.info,
+html[data-theme="dark"] .muted,
+html[data-theme="dark"] .note {
+  color: #cbd5e1 !important;
+}
+
+html[data-theme="dark"] input::placeholder,
+html[data-theme="dark"] textarea::placeholder {
+  color: #9ca3af !important;
+}
+
+html[data-theme="light"] .table-section tr:hover,
+html[data-theme="light"] tr:hover {
+  background-color: rgba(10, 102, 194, 0.05) !important;
+}
+
+html[data-theme="light"] thead th,
+html[data-theme="light"] .compras-table thead th,
+html[data-theme="light"] .table-section th {
+  background-color: #f3f6fb !important;
+  color: #1f2937 !important;
+}
+
+html[data-theme="light"] tbody tr:nth-child(even),
+html[data-theme="light"] .compras-table tbody tr:nth-child(even) {
+  background-color: #f9fbff !important;
+}
+
+html[data-theme="light"] input::placeholder,
+html[data-theme="light"] textarea::placeholder {
+  color: #6b7280 !important;
+}

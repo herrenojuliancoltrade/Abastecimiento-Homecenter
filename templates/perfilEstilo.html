@@ -1,0 +1,41 @@
+{% extends "navbar.html" %}
+
+{% block title %}Estilo{% endblock %}
+
+{% block extra_css %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/perfilEditar.css') }}">
+{% endblock %}
+
+{% block content %}
+<section class="perfil-wrapper">
+  <div class="perfil-card">
+    <div class="perfil-top-actions">
+      <a href="{{ url_for('perfilEditar.perfil_home_view') }}" class="btn btn-light">Volver</a>
+    </div>
+    <h1>Estilo</h1>
+    <p class="perfil-subtitle">Selecciona el tema visual para tu usuario.</p>
+
+    <div id="theme-msg" class="msg" aria-live="polite"></div>
+
+    <form id="theme-form" class="form-block">
+      <h2>Tema</h2>
+      <label for="theme">Modo de interfaz</label>
+      <select id="theme" required>
+        <option value="light">light</option>
+        <option value="dark">dark</option>
+      </select>
+      <button id="btn-save-theme" class="btn btn-primary" type="submit">Guardar tema</button>
+    </form>
+  </div>
+</section>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+  window.perfilThemeConfig = {
+    perfilDataUrl: "{{ url_for('perfilEditar.perfil_data') }}",
+    updateThemeUrl: "{{ url_for('perfilEditar.update_theme') }}"
+  };
+</script>
+<script src="{{ url_for('static', filename='js/perfilEstilo.js') }}"></script>
+{% endblock %}

@@ -1,0 +1,63 @@
+{% extends "navbar.html" %}
+
+{% block title %}Informacion Personal{% endblock %}
+
+{% block extra_css %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/perfilEditar.css') }}">
+{% endblock %}
+
+{% block content %}
+<section class="perfil-wrapper">
+  <div class="perfil-card">
+    <div class="perfil-top-actions">
+      <a href="{{ url_for('perfilEditar.perfil_home_view') }}" class="btn btn-light">Volver</a>
+    </div>
+    <h1>Modificar informacion personal</h1>
+    <p class="perfil-subtitle">Actualiza nombre, apellido y contrasena.</p>
+
+    <div id="profile-msg" class="msg" aria-live="polite"></div>
+
+    <form id="profile-form" class="form-block">
+      <h2>Datos personales</h2>
+      <label for="name">Nombre</label>
+      <input id="name" name="name" type="text" required>
+
+      <label for="last_name">Apellido</label>
+      <input id="last_name" name="last_name" type="text" required>
+
+      <label for="username">Usuario</label>
+      <input id="username" name="username" type="text" disabled>
+
+      <label for="email">Correo</label>
+      <input id="email" name="email" type="email" disabled>
+
+      <button id="btn-save-profile" class="btn btn-primary" type="submit">Guardar perfil</button>
+    </form>
+
+    <form id="password-form" class="form-block">
+      <h2>Cambiar contrasena</h2>
+      <label for="current_password">Contrasena actual</label>
+      <input id="current_password" name="current_password" type="password" required>
+
+      <label for="new_password">Nueva contrasena</label>
+      <input id="new_password" name="new_password" type="password" required minlength="6">
+
+      <label for="confirm_password">Confirmar nueva contrasena</label>
+      <input id="confirm_password" name="confirm_password" type="password" required minlength="6">
+
+      <button id="btn-save-password" class="btn btn-secondary" type="submit">Cambiar contrasena</button>
+    </form>
+  </div>
+</section>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+  window.perfilEditarConfig = {
+    getDataUrl: "{{ url_for('perfilEditar.perfil_data') }}",
+    updateProfileUrl: "{{ url_for('perfilEditar.update_profile') }}",
+    changePasswordUrl: "{{ url_for('perfilEditar.change_password') }}"
+  };
+</script>
+<script src="{{ url_for('static', filename='js/perfilEditar.js') }}"></script>
+{% endblock %}

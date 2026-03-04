@@ -1,0 +1,57 @@
+{% extends "navbar.html" %}
+
+{% block title %}Crear Usuario{% endblock %}
+
+{% block extra_css %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/perfilEditar.css') }}">
+{% endblock %}
+
+{% block content %}
+<section class="perfil-wrapper">
+  <div class="perfil-card">
+    <div class="perfil-top-actions">
+      <a href="{{ url_for('perfilEditar.perfil_home_view') }}" class="btn btn-light">Volver</a>
+    </div>
+    <h1>Crear usuario</h1>
+    <p class="perfil-subtitle">Solo administradores pueden crear nuevos usuarios.</p>
+
+    <div id="create-user-msg" class="msg" aria-live="polite"></div>
+
+    <form id="create-user-form" class="form-block">
+      <h2>Datos del nuevo usuario</h2>
+      <label for="name">Nombre</label>
+      <input id="name" type="text" required>
+
+      <label for="last_name">Apellido</label>
+      <input id="last_name" type="text" required>
+
+      <label for="username">Username</label>
+      <input id="username" type="text" required>
+
+      <label for="email">Correo</label>
+      <input id="email" type="email" required>
+
+      <label for="password">Contrasena temporal</label>
+      <input id="password" type="password" required minlength="6">
+
+      <label for="rol">Rol</label>
+      <select id="rol" required>
+        <option value="administrador">administrador</option>
+        <option value="usuario">usuario</option>
+      </select>
+
+      <button id="btn-create-user" class="btn btn-primary" type="submit">Crear usuario</button>
+    </form>
+  </div>
+</section>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+  window.crearUsuarioConfig = {
+    perfilDataUrl: "{{ url_for('perfilEditar.perfil_data') }}",
+    createUserUrl: "{{ url_for('perfilEditar.create_user') }}"
+  };
+</script>
+<script src="{{ url_for('static', filename='js/crearUsuario.js') }}"></script>
+{% endblock %}

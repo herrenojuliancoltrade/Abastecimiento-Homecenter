@@ -97,6 +97,7 @@ from blueprint.JustinTime import justinTime_bp
 from blueprint.compras import compras_bp
 from blueprint.queryVentashc import queryVentasHc_bp
 from blueprint.queryInventariohc import queryInventarioHc_bp
+from blueprint.perfilEditar import perfilEditar_bp
 from blueprint.auth import auth_bp, init_blocklist
 # -------------------------------------------------
 
@@ -120,7 +121,8 @@ PROTECTED_BLUEPRINTS = {
     justinTime_bp,
     compras_bp,
     queryVentasHc_bp,
-    queryInventarioHc_bp
+    queryInventarioHc_bp,
+    perfilEditar_bp
 }
 
 EXEMPT_BLUEPRINTS = {
@@ -215,6 +217,7 @@ app.register_blueprint(justinTime_bp)
 app.register_blueprint(compras_bp)
 app.register_blueprint(queryVentasHc_bp)
 app.register_blueprint(queryInventarioHc_bp)
+app.register_blueprint(perfilEditar_bp)
 
 
 # Inicializar blocklist checker (desde blueprint/auth.py)

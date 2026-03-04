@@ -168,17 +168,47 @@ def _load_existing_centros():
 
 # util for parsing normalized date to datetime.date
 def _parse_norm_date_to_date(norm):
-    if not norm:
+    if norm is None:
         return None
+    if isinstance(norm, date):
+        return norm
+    if isinstance(norm, datetime):
+        return norm.date()
+
+    s = str(norm).strip()
+    if not s:
+        return None
+
+    # Caso serial de Excel (ejemplo: 45292)
     try:
-        return datetime.strptime(norm, "%Y-%m-%d").date()
+        if s.isdigit() and len(s) <= 5:
+            serial = int(s)
+            return (datetime(1899, 12, 30) + pd.to_timedelta(serial, unit="D")).date()
     except Exception:
-        return None
+        pass
+
+    # Parseo robusto (incluye valores con hora)
+    try:
+        dt = pd.to_datetime(s, errors="coerce")
+        if pd.notna(dt):
+            return dt.date()
+    except Exception:
+        pass
+
+    # Fallback con dayfirst para formatos regionales
+    try:
+        dt = pd.to_datetime(s, dayfirst=True, errors="coerce")
+        if pd.notna(dt):
+            return dt.date()
+    except Exception:
+        pass
+
+    return None
 
 # Spanish month names
 SPANISH_MONTHS = [
-    "", "Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio",
-    "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"
+    "", "enero", "febrero", "marzo", "abril", "mayo", "junio",
+    "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"
 ]
 
 @ventasclaro_bp.route('/')
@@ -524,7 +554,7 @@ def api_months():
             unique.add((dt.year, dt.month))
     # ordenar asc por año, mes
     arr = sorted(list(unique))
-    formatted = [f"{SPANISH_MONTHS[m]} - {y}" for (y, m) in arr]
+    formatted = [f"{SPANISH_MONTHS[m]}-{y}" for (y, m) in arr]
     # si no hay ventas, devolver vacío
     return jsonify({"months": formatted}), 200
 
